@@ -10,7 +10,25 @@ TO DO:
 - Elaborate on surgical instrument/scene segmentation
 - More tasks
 
-## Survey
+
+## Contents
+
+[Survey](#survey)
+
+[Surgical Skill Assessment](#skill)
+
+[Surgical Phase Recognition](#phase)
+
+[Surgical Gesture Recognition](#gesture)
+
+[Surgical Instrument Segmentation / Tracking / Detection](#instrument_location)
+
+[Surgical Instrument Presence Recognition](#instrument_presence)
+
+[Surgical Scene Segmentation](#scene)
+
+
+## <span id = "survey"> **Survey** </span>
 
 | Title | Venue | Links |
 | :--------------------: | :-------------: | :-----: |
@@ -19,7 +37,7 @@ TO DO:
 | Vision-based and marker-less surgical tool detection and tracking: a review of the literature | **MIA 2017** | |
 | Surgical data science for next-generation interventions | **NBE 2017** | |
 
-## Surgical Skill Assessment
+## <span id = "skill"> **Surgical Skill Assessment** </span>
 
 | Title | Venue | Links |
 | :--------------------: | :-------------: | :-----: |
@@ -63,7 +81,7 @@ TO DO:
 | Task versus Subtask Surgical Skill Evaluation of Robotic Minimally Invasive Surgery | **MICCAI 2009** | |
 | Data-derived models for segmentation with application to surgical assessment and training | **MICCAI 2009** | |
 
-## Surgical Phase Recognition
+## <span id = "phase"> **Surgical Phase Recognition** </span>
 
 | Title | Venue | Links |
 | :--------------------: | :-------------: | :-----: |
@@ -86,7 +104,7 @@ TO DO:
 | Surgical phases detection from microscope videos by combining SVM and HMM | **MICCAIW 2010** | |
 | On-line recognition of surgical activity for monitoring in the operating room | **IAAI 2008** | |
 
-## Surgical Gesture Recognition
+## <span id = "gesture"> **Surgical Gesture Recognition** </span>
 
 | Title | Venue | Links |
 | :--------------------: | :-------------: | :-----: |
@@ -109,7 +127,7 @@ TO DO:
 | Automatic detection and segmentation of robot-assisted surgical motions | **MICCAI 2005** | |
 
 
-## Surgical Instrument Segmentation / Tracking / Detection
+## <span id = "instrument_location"> **Surgical Instrument Segmentation / Tracking / Detection** </span>
 
 | Title | Venue | Links |
 | :--------------------: | :-------------: | :-----: |
@@ -137,15 +155,14 @@ TO DO:
 | Visual tracking of da vinci instruments for laparoscopic surgery | **MI 2014**| |
 
 
-## Surgical Instrument Presence Recognition
+## <span id = "instrument_presence"> **Surgical Instrument Presence Recognition** </span>
 
 | Title | Venue | Links |
 | :--------------------: | :-------------: | :-----: |
 | Multi-Task Recurrent Convolutional Network with Correlation Loss for Surgical Video Analysis | **MIA 2020** | |
 | CATARACTS: Challenge on automatic tool annotation for cataRACT surgery | **MIA 2019** | |
 
-## Surgical Scene Segmentation
-
+## <span id = "scene"> **Surgical Scene Segmentation** </span>
 
 <!-- 
 @article{2017Arxiv,

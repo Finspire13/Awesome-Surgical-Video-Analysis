@@ -117,6 +117,7 @@ TO DO:
 | :--------------------: | :-------------: | :-----: |
 | Relational Graph Learning on Visual and Kinematics Embeddings for Accurate Gesture Recognition in Robotic Surgery | **ICRA 2021** | [Paper](https://arxiv.org/abs/2011.01619) |
 | Automatic Gesture Recognition in Robot-assisted Surgery with Reinforcement Learning and Tree Search | **ICRA 2020** | [Paper](https://arxiv.org/abs/2002.08718) |
+| Multi-Task Recurrent Neural Network for Surgical Gesture Recognition and Progress Prediction | **ICRA 2020** | [Paper](https://discovery.ucl.ac.uk/id/eprint/10111216/) |
 | Deep Reinforcement Learning for Surgical Gesture Segmentation and Classification | **MICCAI 2018** | [Paper](https://arxiv.org/abs/1806.08089v1) [Code](https://github.com/Finspire13/RL-Surgical-Gesture-Segmentation) | 
 | Unsupervised learning for surgical motion by learning to predict the future | **MICCAI 2018** | | 
 | A dataset and benchmarks for segmentation and recognition of gestures in robotic surgery | **TBE 2017**| |
@@ -141,6 +142,7 @@ TO DO:
 | One to Many: Adaptive Instrument Segmentation via Meta Learning and Dynamic Online Adaptation in Robotic Surgical Video | **ICRA 2021** | [Paper](https://arxiv.org/abs/2103.12988) |
 | Unsupervised Surgical Instrument Segmentation via Anchor Generation and Semantic Diffusion | **MICCAI 2020** | [Paper](https://arxiv.org/abs/2008.11946) [Code](https://github.com/Finspire13/AGSD-Surgical-Instrument-Segmentation) |
 | Learning Motion Flows for Semi-supervised Instrument Segmentation from Robotic Surgical Video| **MICCAI 2020** | [Paper](https://arxiv.org/abs/2007.02501) [Code](https://github.com/zxzhaoeric/Semi-InstruSeg) |
+| Synthetic and Real Inputs for Tool Segmentation in Robotic Surgery | **MICCAI 2020** | [Paper](https://discovery.ucl.ac.uk/id/eprint/10113753/) | 
 | Automated Surgical Instrument Detection from Laparoscopic Gastrectomy Video Images Using an Open Source Convolutional Neural Network Platform | **JACS 2020** | |
 | BARNet: Bilinear Attention Network with Adaptive Receptive Field for Surgical Instrument Segmentation | **Arxiv 2020** | |
 | Incorporating Temporal Prior from Motion Flow for Instrument Segmentation in Minimally Invasive Surgery Video | **MICCAI 2019** | [Paper](https://arxiv.org/abs/1907.07899) [Code](https://github.com/keyuncheng/MF-TAPNet) |
@@ -153,13 +155,16 @@ TO DO:
 | U-NetPlus: A Modified Encoder-Decoder U-Net Architecture for Semantic and Instance Segmentation of Surgical Instruments from Laparoscopic Images | **EMBC 2019**| |
 | RASNet: Segmentation for tracking surgical instruments in surgical videos using refined attention segmentation network | **EMBC 2019** | |
 | CFCM: Segmentation via coarse to fine context memory | **MICCAI 2018** | |
+| 3D Pose Estimation of Articulated Instruments in Robotic Minimally Invasive Surgery | **TMI 2018** | [Paper](https://iris.ucl.ac.uk/iris/publication/1539968/1) |
 | Exploiting the potential of unlabeled endoscopic video data with self-supervised learning | **IJCARS 2018** | [Paper](https://link.springer.com/article/10.1007/s11548-018-1772-0) |
 | Comparative evaluation of instrument segmentation and tracking methods in minimally invasive surgery | **Arxiv 2018** | [Paper](https://arxiv.org/abs/1805.02475) |
 | Weakly-supervised learning for tool localization in laparoscopic videos | **MICCAIW 2018** | |
 | Automatic instrument segmentation in robot-assisted surgery using deep learning | **ICMLA 2018** | |
 | Concurrent segmentation and localization for tracking of surgical instruments | **MICCAI 2017** | |
+| Simultaneous recognition and pose estimation of instruments in minimally invasive surgery | **MICCAI 2017** | [Paper](https://discovery.ucl.ac.uk/id/eprint/1576315/) |
 | Toolnet: holistically-nested real-time segmentation of robotic surgical tools | **IROS 2017** | |
 | Real-time localization of articulated surgical instruments in retinal microsurgery | **MIA 2016** | |
+| Combined 2D and 3D tracking of surgical instruments for minimally invasive and robotic-assisted surgery | **IJCARS 2016** | [Paper](https://discovery.ucl.ac.uk/id/eprint/1480794/) |
 | Detecting surgical tools by modelling local appearance and global shape | **TMI 2015** | |
 | Visual tracking of da vinci instruments for laparoscopic surgery | **MI 2014**| |
 
@@ -174,6 +179,7 @@ TO DO:
 ## <span id = "scene"> **Surgical Scene / Organ Recognition** </span>
 | Title | Venue | Links |
 | :--------------------: | :-------------: | :-----: |
+| EasyLabels: weak labels for scene segmentation in laparoscopic videos | **IJCARS 2019** | [Paper](https://discovery.ucl.ac.uk/id/eprint/10084862/) |
 | Kidney edge detection in laparoscopic image data for computer-assisted surgery | **IJCARS 2019** | [Paper](https://link.springer.com/article/10.1007/s11548-019-02102-0) |
 | Uncertainty-Aware Organ Classification for Surgical Data Science Applications in Laparoscopy | **TBE 2018** | [Paper](https://ieeexplore.ieee.org/abstract/document/8310960) |
 
@@ -185,7 +191,10 @@ TO DO:
 | Ethical implications of AI in robotic surgical training: A Delphi consensus statement | **EUF 2021** | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S2405456921001127) |
 | Future Frame Prediction for Robot-assisted Surgery | **IPMI 2021** | [Paper](https://arxiv.org/abs/2103.10308) | 
 | Surgical Visual Domain Adaptation: Results from the MICCAI 2020 SurgVisDom Challenge | **Arxiv 2021** | [Paper](https://arxiv.org/abs/2102.13644) | 
+| Global rigid registration of CT to video in laparoscopic liver surgery | **IJCARS 2018** | [Paper](https://discovery.ucl.ac.uk/id/eprint/10048586/) |
 | Projective biomechanical depth matching for soft tissue registration in laparoscopic surgery | **IJCARS 2017** | [Paper](https://link.springer.com/article/10.1007/s11548-017-1613-6) | 
+| Intelligent viewpoint selection for efficient CT to video registration in laparoscopic liver surgery | **IJCARS 2017 **| [Paper](https://discovery.ucl.ac.uk/id/eprint/1549761/) |
+
 
 
 

@@ -8,7 +8,8 @@ TO DO:
 - Add 2020/2021 works for skill assessment
 - Elaborate on surgical phase/action recognition
 - Elaborate on surgical instrument/scene segmentation
-- More tasks
+- Better classification of the 'scene' and 'other' categories
+- More categories
 
 
 ## Contents

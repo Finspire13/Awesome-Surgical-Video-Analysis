@@ -8,6 +8,7 @@ TO DO:
 - Add 2020/2021 works
 - Elaborate on surgical phase/action recognition
 - Elaborate on surgical instrument/scene segmentation
+- More tasks
 
 ## Survey
 
@@ -78,6 +79,19 @@ TO DO:
 | Automatic Gesture Recognition in Robot-assisted Surgery with Reinforcement Learning and Tree Search | **ICRA 2020** | |
 | Deep Reinforcement Learning for Surgical Gesture Segmentation and Classification | **MICCAI 2018** | | 
 | Unsupervised learning for surgical motion by learning to predict the future | **MICCAI 2018** | | 
+| A dataset and benchmarks for segmentation and recognition of gestures in robotic surgery | **TBE 2017**| |
+| Temporal Convolutional Networks for Action Segmentation and Detection | **CVPR 2017** | |
+| Temporal convolutional networks: A unified approach to action segmentation | **ECCVW 2016** | |
+| Recognizing surgical activities with recurrent neural networks | **MICCAI 2016** | |
+| Segmental spatiotemporal cnns for fine-grained action segmentation | **ECCV 2016** | |
+| Learning convolutional action primitives for fine-grained action recognition | **ICRA 2016** | |
+| An improved model for segmentation and recognition of fine-grained activities with application to surgical training tasks | **WACV 2015** | |
+| Learning shared, discriminative dictionaries for surgical gesture segmentation and classification | **MICCAIW 2015** | |
+| JHU-ISI gesture and skill assessment working set (JIGSAWS): A surgical activity dataset for human motion modeling | **MICCAIW 2014**| |
+| Surgical gesture segmentation and recognition | **MICCAI 2013** | |
+| Sparse hidden markov models for surgical gesture classification and skill evaluation | **IPCAI 2011** | |
+| Data-derived models for segmentation with application to surgical assessment and training | **MICCAI 2009** | |
+
 
 ## Surgical Instrument Segmentation / Tracking / Detection
 
@@ -107,6 +121,11 @@ TO DO:
 | Visual tracking of da vinci instruments for laparoscopic surgery | **MI 2014**| |
 
 
+## Surgical Instrument Presence Recognition
+
+## Surgical Scene Segmentation
+
+
 <!-- 
 @article{2017Arxiv,
   title={Unsupervised temporal context learning using convolutional neural networks for laparoscopic workflow analysis},
@@ -114,6 +133,4 @@ TO DO:
   journal={arXiv:1702.03684},
   year={2017}
 } -->
-
-## Surgical Scene Segmentation
 

@@ -17,6 +17,7 @@ TO DO:
 | Surgical Data Science: from Concepts to Clinical Translation | **Arxiv 2020** | |
 | Objective assessment of surgical technical skill and competency in the operating room | **ARBE 2017** | |
 | Vision-based and marker-less surgical tool detection and tracking: a review of the literature | **MIA 2017** | |
+| Surgical data science for next-generation interventions | **NBE 2017** | |
 
 ## Surgical Skill Assessment
 
@@ -67,9 +68,23 @@ TO DO:
 | Title | Venue | Links |
 | :--------------------: | :-------------: | :-----: |
 | Temporal Memory Relation Network for Workflow Recognition from Surgical Video | **TMI 2021** | |
+| TeCNO: Surgical Phase Recognition with Multi-Stage Temporal Convolutional Networks | **MICCAI 2020** | |
 | Multi-Task Recurrent Convolutional Network with Correlation Loss for Surgical Video Analysis | **MIA 2020** | |
 | LRTD: Long-Range Temporal Dependency based Active Learning for Surgical Workflow Recognition | **IJCARS 2020** | |
+| Assisted phase and step annotation for surgical videos | **IJCARS 2020** | |
+| Hard Frame Detection and Online Mapping for Surgical Phase Recognition | **MICCAI 2019** | |
+| MS-TCN: Multi-Stage Temporal Convolutional Network for Action Segmentation | **CVPR 2019** | |
+| Machine and deep learning for workflow recognition during surgery | **MITAT 2019** | |
 | SV-RCNet: Workflow Recognition from Surgical Videos using Recurrent Convolutional Network | **TMI 2018** | |
+| DeepPhase: Surgical Phase Recognition in CATARACTS Videos | **MICCAI 2018** | |
+| Less is More: Surgical Phase Recognition with Less Annotations through Self-Supervised Pre-training of CNN-LSTM Networks | **Arxiv 2018** | |
+| EndoNet: A Deep Architecture for Recognition Tasks on Laparoscopic Videos | **TMI 2017**| |
+| MICCAI Workflow Challenge: Convolutional neural networks with time smoothing and Hidden Markov Model for video frames classification | **Arxiv 2016** | |
+| Statistical modeling and recognition of surgical workflow | **MIA 2012** | |
+| An application-dependent framework for the recognition of high-level surgical tasks in the OR | **TBE 2011** | |
+| Modeling and Segmentation of Surgical Workflow from Laparoscopic Video | **MICCAI 2010** | |
+| Surgical phases detection from microscope videos by combining SVM and HMM | **MICCAIW 2010** | |
+| On-line recognition of surgical activity for monitoring in the operating room | **IAAI 2008** | |
 
 ## Surgical Gesture Recognition
 
@@ -91,6 +106,7 @@ TO DO:
 | Surgical gesture segmentation and recognition | **MICCAI 2013** | |
 | Sparse hidden markov models for surgical gesture classification and skill evaluation | **IPCAI 2011** | |
 | Data-derived models for segmentation with application to surgical assessment and training | **MICCAI 2009** | |
+| Automatic detection and segmentation of robot-assisted surgical motions | **MICCAI 2005** | |
 
 
 ## Surgical Instrument Segmentation / Tracking / Detection
@@ -122,6 +138,11 @@ TO DO:
 
 
 ## Surgical Instrument Presence Recognition
+
+| Title | Venue | Links |
+| :--------------------: | :-------------: | :-----: |
+| Multi-Task Recurrent Convolutional Network with Correlation Loss for Surgical Video Analysis | **MIA 2020** | |
+| CATARACTS: Challenge on automatic tool annotation for cataRACT surgery | **MIA 2019** | |
 
 ## Surgical Scene Segmentation
 

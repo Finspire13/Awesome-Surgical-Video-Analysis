@@ -8,6 +8,7 @@ TO DO:
 - Elaborate on surgical phase/action recognition
 - Elaborate on surgical instrument/scene segmentation
 - Better classification of categories
+- De-duplicate
 
 ## Contents
 
@@ -48,21 +49,20 @@ TO DO:
 | :--------------------: | :-------------: | :-----: |
 | Towards Unified Surgical Skill Assessment | **CVPR 2021** | |
 | Clearness of Operating Field: A Surrogate for Surgical Skills on In-Vivo Clinical Data | **IJCARS 2020** | [Paper](https://link.springer.com/article/10.1007/s11548-020-02267-z) |
-| The Pros and Cons: Rank-aware Temporal Attention for Skill Determination in Long Videos | **CVPR 2019** | |
+| The Pros and Cons: Rank-aware Temporal Attention for Skill Determination in Long Videos | **CVPR 2019** | [Paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Doughty_The_Pros_and_Cons_Rank-Aware_Temporal_Attention_for_Skill_Determination_CVPR_2019_paper.pdf) [Code](https://github.com/hazeld/rank-aware-attention-network) |
 | Surgical Skill Assessment on In-Vivo Clinical Data via the Clearness of Operating Field | **MICCAI 2019** | [Paper](https://arxiv.org/abs/2008.11954) |
 | Modeling Surgical Technical Skill Using Expert Assessment for Automated Computer Rating | **AnnS 2019** | |
 | Towards Optimizing Convolutional Neural Networks for Robotic Surgery Skill Evaluation | **IJCNN 2019** | |
 | Video-based surgical skill assessment using 3D convolutional neural networks | **IJCARS 2019** | |
-| Accurate and interpretable evaluation of surgical skills from kinematic data using fully convolutional neural networks | **IJCARS 2019** | |
+| Accurate and interpretable evaluation of surgical skills from kinematic data using fully convolutional neural networks | **IJCARS 2019** | [Paper](https://arxiv.org/pdf/1908.07319.pdf) [Code](https://github.com/hfawaz/ijcars19) |
 | Machine learning methods for automated technical skills assessment with instructional feedback in ultrasound-guided interventions | **IJCARS 2019** | |
 | Objective assessment of intraoperative technical skill in capsulorhexis using videos of cataract surgery | **IJCARS 2019** | |
 | Objective classification of psychomotor laparoscopic skills of surgeons based on three different approaches | **IJCARS 2019** | |
 | Who’s Better? Who’s Best? Pairwise Deep Ranking for Skill Determination | **CVPR 2018** | |
 | Tool Detection and Operative Skill Assessment in Surgical Videos Using Region-Based Convolutional Neural Networks | **WACV 2018** | |
-| Evaluating surgical skills from kinematic data using convolutional neural networks | **MICCAI 2018** | |
+| Evaluating surgical skills from kinematic data using convolutional neural networks | **MICCAI 2018** | [Paper](https://arxiv.org/abs/1806.02750) [Code](https://github.com/hfawaz/miccai18) |
 | Automated surgical skill assessment in RMIS training | **IJCARS 2018** | |
 | Video and accelerometer-based motion analysis for automated surgical skills assessment | **IJCARS 2018** | |
-| Deep learning with convolutional neural network for objective skill evaluation in robot-assisted surgery | **IJCARS 2018** | |
 | Deep learning with convolutional neural network for objective skill evaluation in robot-assisted surgery | **IJCARS 2018** | |
 | Automated robot‐assisted surgical skill evaluation: Predictive analytics approach | **IJMRCAR 2018** | |
 | Meaningful Assessment of Surgical Expertise: Semantic Labeling with Data and Crowds | **MICCAI 2016** | |

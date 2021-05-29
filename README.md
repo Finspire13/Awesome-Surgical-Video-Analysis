@@ -1,7 +1,5 @@
 # Awesome-Surgical-Video-Analysis
 
-More about 'Surgery'. Not only on 'Video'.
-
 _**Under development. Welcome to contribute.**_
 
 TO DO:
@@ -154,6 +152,7 @@ TO DO:
 | RASNet: Segmentation for tracking surgical instruments in surgical videos using refined attention segmentation network | **EMBC 2019** | |
 | CFCM: Segmentation via coarse to fine context memory | **MICCAI 2018** | |
 | Exploiting the potential of unlabeled endoscopic video data with self-supervised learning | **IJCARS 2018** | [Paper](https://link.springer.com/article/10.1007/s11548-018-1772-0) |
+| Comparative evaluation of instrument segmentation and tracking methods in minimally invasive surgery | **Arxiv 2018** | [Paper](https://arxiv.org/abs/1805.02475) |
 | Weakly-supervised learning for tool localization in laparoscopic videos | **MICCAIW 2018** | |
 | Automatic instrument segmentation in robot-assisted surgery using deep learning | **ICMLA 2018** | |
 | Concurrent segmentation and localization for tracking of surgical instruments | **MICCAI 2017** | |
@@ -184,6 +183,7 @@ TO DO:
 | Ethical implications of AI in robotic surgical training: A Delphi consensus statement | **EUF 2021** | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S2405456921001127) |
 | Future Frame Prediction for Robot-assisted Surgery | **IPMI 2021** | [Paper](https://arxiv.org/abs/2103.10308) | 
 | Surgical Visual Domain Adaptation: Results from the MICCAI 2020 SurgVisDom Challenge | **Arxiv 2021** | [Paper](https://arxiv.org/abs/2102.13644) | 
+| Projective biomechanical depth matching for soft tissue registration in laparoscopic surgery | **IJCARS 2017** | [Paper](https://link.springer.com/article/10.1007/s11548-017-1613-6) | 
 
 
 

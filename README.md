@@ -136,7 +136,7 @@ TO DO:
 | Automatic detection and segmentation of robot-assisted surgical motions | **MICCAI 2005** | |
 
 
-## <span id = "instrument"> **Surgical Instrument Segmentation / Tracking / Detection** </span>
+## <span id = "instrument"> **Surgical Instrument Recognition / Localization** </span>
 
 | Title | Venue | Links |
 | :--------------------: | :-------------: | :-----: |

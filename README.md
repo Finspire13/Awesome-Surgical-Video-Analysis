@@ -27,7 +27,7 @@ TO DO:
 
 [Surgical Instrument Presence Recognition](#instrument_presence)
 
-[Surgical Scene Segmentation](#scene)
+[Surgical Scene / Organ Recognition](#scene)
 
 [Others](#others)
 
@@ -38,6 +38,7 @@ TO DO:
 | Title | Venue | Links |
 | :--------------------: | :-------------: | :-----: |
 | Surgical Data Science: from Concepts to Clinical Translation | **Arxiv 2020** | |
+| Surgical Data Science: A Consensus Perspective | **Arxiv 2018** | [Paper](https://arxiv.org/abs/1806.03184) |
 | Objective assessment of surgical technical skill and competency in the operating room | **ARBE 2017** | |
 | Vision-based and marker-less surgical tool detection and tracking: a review of the literature | **MIA 2017** | |
 | Surgical data science for next-generation interventions | **NBE 2017** | |
@@ -102,6 +103,7 @@ TO DO:
 | DeepPhase: Surgical Phase Recognition in CATARACTS Videos | **MICCAI 2018** | |
 | Less is More: Surgical Phase Recognition with Less Annotations through Self-Supervised Pre-training of CNN-LSTM Networks | **Arxiv 2018** | |
 | EndoNet: A Deep Architecture for Recognition Tasks on Laparoscopic Videos | **TMI 2017**| |
+| Unsupervised temporal context learning using convolutional neural networks for laparoscopic workflow analysis | **Arxiv 2017** | [Paper](https://arxiv.org/pdf/1702.03684.pdf) |
 | MICCAI Workflow Challenge: Convolutional neural networks with time smoothing and Hidden Markov Model for video frames classification | **Arxiv 2016** | |
 | Statistical modeling and recognition of surgical workflow | **MIA 2012** | |
 | An application-dependent framework for the recognition of high-level surgical tasks in the OR | **TBE 2011** | |
@@ -145,12 +147,13 @@ TO DO:
 | Weakly supervised convolutional {LSTM} approach for tool tracking in laparoscopic videos | **IJCARS 2019** | |
 | Self-supervised surgical tool segmentation using kinematic information | **ICRA 2019** | |
 | Learning Where to Look While Tracking Instruments in Robot-assisted Surgery | **MICCAI 2019** | |
+| Patch-based adaptive weighting with segmentation and scale (PAWSS) for visual tracking in surgical video | **MIA 2019** | [Paper](https://www.sciencedirect.com/science/article/pii/S1361841519300593) |
 | Deep residual learning for instrument segmentation in robotic surgery | **MLMI 2019** | |
 | 2017 robotic instrument segmentation challenge | **Arxiiv 2019** | |
 | U-NetPlus: A Modified Encoder-Decoder U-Net Architecture for Semantic and Instance Segmentation of Surgical Instruments from Laparoscopic Images | **EMBC 2019**| |
 | RASNet: Segmentation for tracking surgical instruments in surgical videos using refined attention segmentation network | **EMBC 2019** | |
 | CFCM: Segmentation via coarse to fine context memory | **MICCAI 2018** | |
-| Exploiting the potential of unlabeled endoscopic video data with self-supervised learning | **IJCARS 2018** | |
+| Exploiting the potential of unlabeled endoscopic video data with self-supervised learning | **IJCARS 2018** | [Paper](https://link.springer.com/article/10.1007/s11548-018-1772-0) |
 | Weakly-supervised learning for tool localization in laparoscopic videos | **MICCAIW 2018** | |
 | Automatic instrument segmentation in robot-assisted surgery using deep learning | **ICMLA 2018** | |
 | Concurrent segmentation and localization for tracking of surgical instruments | **MICCAI 2017** | |
@@ -167,19 +170,29 @@ TO DO:
 | Multi-Task Recurrent Convolutional Network with Correlation Loss for Surgical Video Analysis | **MIA 2020** | [Paper](https://arxiv.org/abs/1907.06099) [Code](https://github.com/YuemingJin/MTRCNet-CL) |
 | CATARACTS: Challenge on automatic tool annotation for cataRACT surgery | **MIA 2019** | |
 
-## <span id = "scene"> **Surgical Scene Segmentation** </span>
+## <span id = "scene"> **Surgical Scene / Organ Recognition** </span>
+| Title | Venue | Links |
+| :--------------------: | :-------------: | :-----: |
+| Kidney edge detection in laparoscopic image data for computer-assisted surgery | **IJCARS 2019** | [Paper](https://link.springer.com/article/10.1007/s11548-019-02102-0) |
+| Uncertainty-Aware Organ Classification for Surgical Data Science Applications in Laparoscopy | **TBE 2018** | [Paper](https://ieeexplore.ieee.org/abstract/document/8310960) |
+
 
 ## <span id = "others"> **Others** </span>
 
 | Title | Venue | Links |
 | :--------------------: | :-------------: | :-----: |
-| Future Frame Prediction for Robot-assisted Surgery | IPMI 2021 | [Paper](https://arxiv.org/abs/2103.10308) | 
+| Ethical implications of AI in robotic surgical training: A Delphi consensus statement | **EUF 2021** | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S2405456921001127) |
+| Future Frame Prediction for Robot-assisted Surgery | **IPMI 2021** | [Paper](https://arxiv.org/abs/2103.10308) | 
+| Surgical Visual Domain Adaptation: Results from the MICCAI 2020 SurgVisDom Challenge | **Arxiv 2021** | [Paper](https://arxiv.org/abs/2102.13644) | 
+
+
 
 <!-- 
-@article{2017Arxiv,
-  title={Unsupervised temporal context learning using convolutional neural networks for laparoscopic workflow analysis},
-  author={Bodenstedt, Sebastian and Wagner, Martin and Kati{\'c}, Darko and Mietkowski, Patrick and Mayer, Benjamin and Kenngott, Hannes and M{\"u}ller-Stich, Beat and Dillmann, R{\"u}diger and Speidel, Stefanie},
-  journal={arXiv:1702.03684},
-  year={2017}
-} -->
-
+Lena Maier-Hein
+Danail Stoyanov
+Nicolas Padoy
+Gregory D. Hager
+ Pierre Jannin
+ Stefanie Speidel
+ Nassir Navab
+ Swaroop S. Vedula -->

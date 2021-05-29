@@ -1,11 +1,11 @@
 # Awesome-Surgical-Video-Analysis
 
-Under development. Welcome to contribute.
+_**Under development. Welcome to contribute.**_
 
 TO DO:
 - Add paper links
 - Add code links
-- Add 2020/2021 works
+- Add 2020/2021 works for skill assessment
 - Elaborate on surgical phase/action recognition
 - Elaborate on surgical instrument/scene segmentation
 - More tasks

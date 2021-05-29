@@ -36,11 +36,11 @@ TO DO:
 | Title | Venue | Links |
 | :--------------------: | :-------------: | :-----: |
 | Surgical Data Science: from Concepts to Clinical Translation | **Arxiv 2020** | |
-| Supporting laparoscopic general surgery training with digital technology: The United Kingdom and Ireland paradigm | **BMC 2021** | [Paper](https://discovery.ucl.ac.uk/id/eprint/10124234/) |
 | Surgical Data Science: A Consensus Perspective | **Arxiv 2018** | [Paper](https://arxiv.org/abs/1806.03184) |
+| Surgical data science for next-generation interventions | **NBE 2017** | |
+| Supporting laparoscopic general surgery training with digital technology: The United Kingdom and Ireland paradigm | **BMC 2021** | [Paper](https://discovery.ucl.ac.uk/id/eprint/10124234/) |
 | Objective assessment of surgical technical skill and competency in the operating room | **ARBE 2017** | |
 | Vision-based and marker-less surgical tool detection and tracking: a review of the literature | **MIA 2017** | |
-| Surgical data science for next-generation interventions | **NBE 2017** | |
 | Gesture Recognition in Robotic Surgery: a Review | **TBE 2021** | [Paper](https://iris.ucl.ac.uk/iris/publication/1845816/1) |
 
 ## <span id = "skill"> **Surgical Skill Assessment** </span>
@@ -167,6 +167,7 @@ TO DO:
 | Combined 2D and 3D tracking of surgical instruments for minimally invasive and robotic-assisted surgery | **IJCARS 2016** | [Paper](https://discovery.ucl.ac.uk/id/eprint/1480794/) |
 | Detecting surgical tools by modelling local appearance and global shape | **TMI 2015** | |
 | Visual tracking of da vinci instruments for laparoscopic surgery | **MI 2014**| |
+| Toward Detection and Localization of Instruments in Minimally Invasive Surgery | **TBE 2013** | [Paper](https://ieeexplore.ieee.org/document/6359786) |
 
 
 ## <span id = "instrument_presence"> **Surgical Instrument Presence Recognition** </span>
@@ -182,6 +183,7 @@ TO DO:
 | EasyLabels: weak labels for scene segmentation in laparoscopic videos | **IJCARS 2019** | [Paper](https://discovery.ucl.ac.uk/id/eprint/10084862/) |
 | Kidney edge detection in laparoscopic image data for computer-assisted surgery | **IJCARS 2019** | [Paper](https://link.springer.com/article/10.1007/s11548-019-02102-0) |
 | Uncertainty-Aware Organ Classification for Surgical Data Science Applications in Laparoscopy | **TBE 2018** | [Paper](https://ieeexplore.ieee.org/abstract/document/8310960) |
+| Long Term Safety Area Tracking (LT-SAT) with online failure detection and recovery for robotic minimally invasive surgery | **MIA 2018** | [Paper](https://doi.org/10.1016/j.media.2017.12.010) |
 
 
 ## <span id = "others"> **Others** </span>
@@ -193,7 +195,8 @@ TO DO:
 | Surgical Visual Domain Adaptation: Results from the MICCAI 2020 SurgVisDom Challenge | **Arxiv 2021** | [Paper](https://arxiv.org/abs/2102.13644) | 
 | Global rigid registration of CT to video in laparoscopic liver surgery | **IJCARS 2018** | [Paper](https://discovery.ucl.ac.uk/id/eprint/10048586/) |
 | Projective biomechanical depth matching for soft tissue registration in laparoscopic surgery | **IJCARS 2017** | [Paper](https://link.springer.com/article/10.1007/s11548-017-1613-6) | 
-| Intelligent viewpoint selection for efficient CT to video registration in laparoscopic liver surgery | **IJCARS 2017 **| [Paper](https://discovery.ucl.ac.uk/id/eprint/1549761/) |
+| Intelligent viewpoint selection for efficient CT to video registration in laparoscopic liver surgery | **IJCARS 2017**| [Paper](https://discovery.ucl.ac.uk/id/eprint/1549761/) |
+| Real-time dense stereo reconstruction using convex optimisation with a cost-volume for image-guided robotic surgery | **MICCAI 2013** | [Paper](https://link.springer.com/chapter/10.1007/978-3-642-40811-3_6) |
 
 
 

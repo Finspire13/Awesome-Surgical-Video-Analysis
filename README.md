@@ -147,7 +147,7 @@ TO DO:
 | Automated Surgical Instrument Detection from Laparoscopic Gastrectomy Video Images Using an Open Source Convolutional Neural Network Platform | **JACS 2020** | |
 | BARNet: Bilinear Attention Network with Adaptive Receptive Field for Surgical Instrument Segmentation | **Arxiv 2020** | |
 | Incorporating Temporal Prior from Motion Flow for Instrument Segmentation in Minimally Invasive Surgery Video | **MICCAI 2019** | [Paper](https://arxiv.org/abs/1907.07899) [Code](https://github.com/keyuncheng/MF-TAPNet) |
-| Weakly supervised convolutional {LSTM} approach for tool tracking in laparoscopic videos | **IJCARS 2019** | |
+| Weakly supervised convolutional LSTM approach for tool tracking in laparoscopic videos | **IJCARS 2019** | |
 | Self-supervised surgical tool segmentation using kinematic information | **ICRA 2019** | |
 | Learning Where to Look While Tracking Instruments in Robot-assisted Surgery | **MICCAI 2019** | |
 | Patch-based adaptive weighting with segmentation and scale (PAWSS) for visual tracking in surgical video | **MIA 2019** | [Paper](https://www.sciencedirect.com/science/article/pii/S1361841519300593) |

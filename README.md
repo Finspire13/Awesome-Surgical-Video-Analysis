@@ -13,7 +13,7 @@ TO DO:
 
 ## Contents
 
-[Survey](#survey)
+[Survey and The Big Picture](#survey)
 
 [Surgical Skill Assessment](#skill)
 
@@ -31,15 +31,17 @@ TO DO:
 
 
 
-## <span id = "survey"> **Survey** </span>
+## <span id = "survey"> **Survey and The Big Picture** </span>
 
 | Title | Venue | Links |
 | :--------------------: | :-------------: | :-----: |
 | Surgical Data Science: from Concepts to Clinical Translation | **Arxiv 2020** | |
+| Supporting laparoscopic general surgery training with digital technology: The United Kingdom and Ireland paradigm | **BMC 2021** | [Paper](https://discovery.ucl.ac.uk/id/eprint/10124234/) |
 | Surgical Data Science: A Consensus Perspective | **Arxiv 2018** | [Paper](https://arxiv.org/abs/1806.03184) |
 | Objective assessment of surgical technical skill and competency in the operating room | **ARBE 2017** | |
 | Vision-based and marker-less surgical tool detection and tracking: a review of the literature | **MIA 2017** | |
 | Surgical data science for next-generation interventions | **NBE 2017** | |
+| Gesture Recognition in Robotic Surgery: a Review | **TBE 2021** | [Paper](https://iris.ucl.ac.uk/iris/publication/1845816/1) |
 
 ## <span id = "skill"> **Surgical Skill Assessment** </span>
 

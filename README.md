@@ -9,6 +9,7 @@ TO DO:
 - Elaborate on surgical instrument/scene segmentation
 - Better classification of categories
 - De-duplicate
+- last big 4
 
 ## Contents
 

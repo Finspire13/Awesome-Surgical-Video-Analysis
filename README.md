@@ -3,14 +3,11 @@
 _**Under development. Welcome to contribute.**_
 
 TO DO:
-- Add paper links
-- Add code links
+- Add paper / code links
 - Add 2020/2021 works for skill assessment
 - Elaborate on surgical phase/action recognition
 - Elaborate on surgical instrument/scene segmentation
-- Better classification of the 'scene' and 'other' categories
-- More categories
-
+- Better classification of categories
 
 ## Contents
 

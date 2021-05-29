@@ -1,5 +1,7 @@
 # Awesome-Surgical-Video-Analysis
 
+More about 'Surgery'. Not only on 'Video'.
+
 _**Under development. Welcome to contribute.**_
 
 TO DO:
@@ -27,6 +29,9 @@ TO DO:
 
 [Surgical Scene Segmentation](#scene)
 
+[Others](#others)
+
+
 
 ## <span id = "survey"> **Survey** </span>
 
@@ -42,9 +47,9 @@ TO DO:
 | Title | Venue | Links |
 | :--------------------: | :-------------: | :-----: |
 | Towards Unified Surgical Skill Assessment | **CVPR 2021** | |
-| Clearness of Operating Field: A Surrogate for Surgical Skills on In-Vivo Clinical Data | **IJCARS 2020** | |
+| Clearness of Operating Field: A Surrogate for Surgical Skills on In-Vivo Clinical Data | **IJCARS 2020** | [Paper](https://link.springer.com/article/10.1007/s11548-020-02267-z) |
 | The Pros and Cons: Rank-aware Temporal Attention for Skill Determination in Long Videos | **CVPR 2019** | |
-| Surgical Skill Assessment on In-Vivo Clinical Data via the Clearness of Operating Field | **MICCAI 2019** | |
+| Surgical Skill Assessment on In-Vivo Clinical Data via the Clearness of Operating Field | **MICCAI 2019** | [Paper](https://arxiv.org/abs/2008.11954) |
 | Modeling Surgical Technical Skill Using Expert Assessment for Automated Computer Rating | **AnnS 2019** | |
 | Towards Optimizing Convolutional Neural Networks for Robotic Surgery Skill Evaluation | **IJCNN 2019** | |
 | Video-based surgical skill assessment using 3D convolutional neural networks | **IJCARS 2019** | |
@@ -85,15 +90,15 @@ TO DO:
 
 | Title | Venue | Links |
 | :--------------------: | :-------------: | :-----: |
-| Temporal Memory Relation Network for Workflow Recognition from Surgical Video | **TMI 2021** | |
+| Temporal Memory Relation Network for Workflow Recognition from Surgical Video | **TMI 2021** | [Paper](https://arxiv.org/abs/2103.16327) [Code](https://github.com/YuemingJin/TMRNet) |
 | TeCNO: Surgical Phase Recognition with Multi-Stage Temporal Convolutional Networks | **MICCAI 2020** | |
-| Multi-Task Recurrent Convolutional Network with Correlation Loss for Surgical Video Analysis | **MIA 2020** | |
-| LRTD: Long-Range Temporal Dependency based Active Learning for Surgical Workflow Recognition | **IJCARS 2020** | |
+| Multi-Task Recurrent Convolutional Network with Correlation Loss for Surgical Video Analysis | **MIA 2020** | [Paper](https://arxiv.org/abs/1907.06099) [Code](https://github.com/YuemingJin/MTRCNet-CL) |
+| LRTD: Long-Range Temporal Dependency based Active Learning for Surgical Workflow Recognition | **IJCARS 2020** | [Paper](https://link.springer.com/content/pdf/10.1007/s11548-020-02198-9.pdf) [Code](https://github.com/xmichelleshihx/AL-LRTD) |
 | Assisted phase and step annotation for surgical videos | **IJCARS 2020** | |
 | Hard Frame Detection and Online Mapping for Surgical Phase Recognition | **MICCAI 2019** | |
 | MS-TCN: Multi-Stage Temporal Convolutional Network for Action Segmentation | **CVPR 2019** | |
 | Machine and deep learning for workflow recognition during surgery | **MITAT 2019** | |
-| SV-RCNet: Workflow Recognition from Surgical Videos using Recurrent Convolutional Network | **TMI 2018** | |
+| SV-RCNet: Workflow Recognition from Surgical Videos using Recurrent Convolutional Network | **TMI 2018** | [Paper](https://ieeexplore.ieee.org/document/8240734) [Code](https://github.com/YuemingJin/SV-RCNet) |
 | DeepPhase: Surgical Phase Recognition in CATARACTS Videos | **MICCAI 2018** | |
 | Less is More: Surgical Phase Recognition with Less Annotations through Self-Supervised Pre-training of CNN-LSTM Networks | **Arxiv 2018** | |
 | EndoNet: A Deep Architecture for Recognition Tasks on Laparoscopic Videos | **TMI 2017**| |
@@ -108,9 +113,9 @@ TO DO:
 
 | Title | Venue | Links |
 | :--------------------: | :-------------: | :-----: |
-| Relational Graph Learning on Visual and Kinematics Embeddings for Accurate Gesture Recognition in Robotic Surgery | **ICRA 2021** | |
-| Automatic Gesture Recognition in Robot-assisted Surgery with Reinforcement Learning and Tree Search | **ICRA 2020** | |
-| Deep Reinforcement Learning for Surgical Gesture Segmentation and Classification | **MICCAI 2018** | | 
+| Relational Graph Learning on Visual and Kinematics Embeddings for Accurate Gesture Recognition in Robotic Surgery | **ICRA 2021** | [Paper](https://arxiv.org/abs/2011.01619) |
+| Automatic Gesture Recognition in Robot-assisted Surgery with Reinforcement Learning and Tree Search | **ICRA 2020** | [Paper](https://arxiv.org/abs/2002.08718) |
+| Deep Reinforcement Learning for Surgical Gesture Segmentation and Classification | **MICCAI 2018** | [Paper](https://arxiv.org/abs/1806.08089v1) [Code](https://github.com/Finspire13/RL-Surgical-Gesture-Segmentation) | 
 | Unsupervised learning for surgical motion by learning to predict the future | **MICCAI 2018** | | 
 | A dataset and benchmarks for segmentation and recognition of gestures in robotic surgery | **TBE 2017**| |
 | Temporal Convolutional Networks for Action Segmentation and Detection | **CVPR 2017** | |
@@ -131,12 +136,12 @@ TO DO:
 
 | Title | Venue | Links |
 | :--------------------: | :-------------: | :-----: |
-| One to Many: Adaptive Instrument Segmentation via Meta Learning and Dynamic Online Adaptation in Robotic Surgical Video | **ICRA 2021** | |
-| Unsupervised Surgical Instrument Segmentation via Anchor Generation and Semantic Diffusion | **MICCAI 2020** | |
-| Learning Motion Flows for Semi-supervised Instrument Segmentation from Robotic Surgical Video| **MICCAI 2020** | |
+| One to Many: Adaptive Instrument Segmentation via Meta Learning and Dynamic Online Adaptation in Robotic Surgical Video | **ICRA 2021** | [Paper](https://arxiv.org/abs/2103.12988) |
+| Unsupervised Surgical Instrument Segmentation via Anchor Generation and Semantic Diffusion | **MICCAI 2020** | [Paper](https://arxiv.org/abs/2008.11946) [Code](https://github.com/Finspire13/AGSD-Surgical-Instrument-Segmentation) |
+| Learning Motion Flows for Semi-supervised Instrument Segmentation from Robotic Surgical Video| **MICCAI 2020** | [Paper](https://arxiv.org/abs/2007.02501) [Code](https://github.com/zxzhaoeric/Semi-InstruSeg) |
 | Automated Surgical Instrument Detection from Laparoscopic Gastrectomy Video Images Using an Open Source Convolutional Neural Network Platform | **JACS 2020** | |
 | BARNet: Bilinear Attention Network with Adaptive Receptive Field for Surgical Instrument Segmentation | **Arxiv 2020** | |
-| Incorporating Temporal Prior from Motion Flow for Instrument Segmentation in Minimally Invasive Surgery Video | **MICCAI 2019**| |
+| Incorporating Temporal Prior from Motion Flow for Instrument Segmentation in Minimally Invasive Surgery Video | **MICCAI 2019** | [Paper](https://arxiv.org/abs/1907.07899) [Code](https://github.com/keyuncheng/MF-TAPNet) |
 | Weakly supervised convolutional {LSTM} approach for tool tracking in laparoscopic videos | **IJCARS 2019** | |
 | Self-supervised surgical tool segmentation using kinematic information | **ICRA 2019** | |
 | Learning Where to Look While Tracking Instruments in Robot-assisted Surgery | **MICCAI 2019** | |
@@ -159,10 +164,16 @@ TO DO:
 
 | Title | Venue | Links |
 | :--------------------: | :-------------: | :-----: |
-| Multi-Task Recurrent Convolutional Network with Correlation Loss for Surgical Video Analysis | **MIA 2020** | |
+| Multi-Task Recurrent Convolutional Network with Correlation Loss for Surgical Video Analysis | **MIA 2020** | [Paper](https://arxiv.org/abs/1907.06099) [Code](https://github.com/YuemingJin/MTRCNet-CL) |
 | CATARACTS: Challenge on automatic tool annotation for cataRACT surgery | **MIA 2019** | |
 
 ## <span id = "scene"> **Surgical Scene Segmentation** </span>
+
+## <span id = "others"> **Others** </span>
+
+| Title | Venue | Links |
+| :--------------------: | :-------------: | :-----: |
+| Future Frame Prediction for Robot-assisted Surgery | IPMI 2021 | [Paper](https://arxiv.org/abs/2103.10308) | 
 
 <!-- 
 @article{2017Arxiv,

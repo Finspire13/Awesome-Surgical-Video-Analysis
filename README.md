@@ -5,10 +5,10 @@ _**Under development. Welcome to contribute.**_
 TO DO:
 - Add links
 - Search for more papers
+- Better categories
 <!-- - Add 2020/2021 works for skill assessment
 - Elaborate on surgical phase/action recognition
 - Elaborate on surgical instrument/scene segmentation -->
-- Better categories
 <!-- - De-duplicate -->
 <!-- - last big 4
  -->

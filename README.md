@@ -8,6 +8,7 @@ TO DO:
 - Add links
 - Search for more papers
 - Better categories
+- Better curation
 <!-- - Add 2020/2021 works for skill assessment
 - Elaborate on surgical phase/action recognition
 - Elaborate on surgical instrument/scene segmentation -->

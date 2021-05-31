@@ -113,6 +113,7 @@ TO DO:
 | Learning from a tiny dataset of manual annotations: a teacher/student approach for surgical phase recognition | **IPCAI 2019** | [Paper](https://arxiv.org/abs/1812.00033) |
 | Machine and deep learning for workflow recognition during surgery | **MITAT 2019** | |
 | Assessment of automated identification of phases in videos of cataract surgery using machine learning and deep learning techniques | **JAMA 2019** | [Paper](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2729808) |
+| Multitask learning of temporal connectionism in convolutional networks using a joint distribution loss function to simultaneously identify tools and phase in surgical videos | **Arxiv 2019** | [Paper](https://arxiv.org/pdf/1905.08315.pdf) |
 | SV-RCNet: Workflow Recognition from Surgical Videos using Recurrent Convolutional Network | **TMI 2018** | [Paper](https://ieeexplore.ieee.org/document/8240734) [Code](https://github.com/YuemingJin/SV-RCNet) |
 | DeepPhase: Surgical Phase Recognition in CATARACTS Videos | **MICCAI 2018** | |
 | Temporal coherence-based self-supervised learning for laparoscopic workflow analysis | **MICCAIW 2018** | [Paper](https://arxiv.org/abs/1806.06811) |
@@ -186,7 +187,8 @@ TO DO:
 | Patch-based adaptive weighting with segmentation and scale (PAWSS) for visual tracking in surgical video | **MIA 2019** | [Paper](https://www.sciencedirect.com/science/article/pii/S1361841519300593) |
 | CATARACTS: Challenge on automatic tool annotation for cataRACT surgery | **MIA 2019** | |
 | Deep residual learning for instrument segmentation in robotic surgery | **MLMI 2019** | |
-| 2017 robotic instrument segmentation challenge | **Arxiiv 2019** | |
+| 2017 robotic instrument segmentation challenge | **Arxiv 2019** | |
+| Multitask learning of temporal connectionism in convolutional networks using a joint distribution loss function to simultaneously identify tools and phase in surgical videos | **Arxiv 2019** | [Paper](https://arxiv.org/pdf/1905.08315.pdf) |
 | U-NetPlus: A Modified Encoder-Decoder U-Net Architecture for Semantic and Instance Segmentation of Surgical Instruments from Laparoscopic Images | **EMBC 2019**| |
 | RASNet: Segmentation for tracking surgical instruments in surgical videos using refined attention segmentation network | **EMBC 2019** | |
 | CFCM: Segmentation via coarse to fine context memory | **MICCAI 2018** | |

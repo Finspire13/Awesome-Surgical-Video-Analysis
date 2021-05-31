@@ -39,13 +39,13 @@ TO DO:
 
 | Title | Venue | Links |
 | :--------------------: | :-------------: | :-----: |
-| Surgical Data Science: from Concepts to Clinical Translation | **Arxiv 2020** | |
+| Surgical Data Science: from Concepts to Clinical Translation | **Arxiv 2020** | [Paper](https://arxiv.org/abs/2011.02284) |
 | Surgical Data Science: A Consensus Perspective | **Arxiv 2018** | [Paper](https://arxiv.org/abs/1806.03184) |
-| Surgical data science for next-generation interventions | **NBE 2017** | |
+| Surgical data science for next-generation interventions | **NBE 2017** | [Paper](https://www.nature.com/articles/s41551-017-0132-7) |
 | OR Black Box and Surgical Control Tower: Recording and Streaming data and Analytics to Improve Surgical Care | **JVS 2021** | [Paper](https://www.sciencedirect.com/science/article/pii/S1878788621000163?via%3Dihub) |
 | Supporting laparoscopic general surgery training with digital technology: The United Kingdom and Ireland paradigm | **BMC 2021** | [Paper](https://discovery.ucl.ac.uk/id/eprint/10124234/) |
-| Objective assessment of surgical technical skill and competency in the operating room | **ARBE 2017** | |
-| Vision-based and marker-less surgical tool detection and tracking: a review of the literature | **MIA 2017** | |
+| Objective assessment of surgical technical skill and competency in the operating room | **ARBE 2017** | [Paper](https://www.annualreviews.org/doi/10.1146/annurev-bioeng-071516-044435) |
+| Vision-based and marker-less surgical tool detection and tracking: a review of the literature | **MIA 2017** | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S1361841516301657?via%3Dihub) |
 | Gesture Recognition in Robotic Surgery: a Review | **TBE 2021** | [Paper](https://iris.ucl.ac.uk/iris/publication/1845816/1) |
 
 ## <span id = "skill"> **Surgical Skill Assessment** </span>

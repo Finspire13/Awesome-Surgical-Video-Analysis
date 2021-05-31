@@ -15,7 +15,8 @@ TO DO:
 <!-- - De-duplicate -->
 <!-- - last big 4
  -->
- 
+<!--  - two pie charts (venue / Topic)
+  -->
 ## Contents
 
 [The Big Picture](#picture)

@@ -65,10 +65,12 @@ TO DO:
 
 ## <span id = "skill"> **Surgical Skill Assessment** </span>
 
+
 | Title | Venue | Links |
 | :--------------------: | :-------------: | :-----: |
 | Towards Unified Surgical Skill Assessment | **CVPR 2021** | [Paper](http://www.vie.group/media/pdf/CVPR2021.pdf) |
 | Clearness of Operating Field: A Surrogate for Surgical Skills on In-Vivo Clinical Data | **IJCARS 2020** | [Paper](https://link.springer.com/article/10.1007/s11548-020-02267-z) |
+| Predicting the quality of surgical exposure using spatial and procedural features from laparoscopic videos | **IJCARS 2020** | [Paper](https://link.springer.com/article/10.1007%2Fs11548-019-02072-3) |
 | The Pros and Cons: Rank-aware Temporal Attention for Skill Determination in Long Videos | **CVPR 2019** | [Paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Doughty_The_Pros_and_Cons_Rank-Aware_Temporal_Attention_for_Skill_Determination_CVPR_2019_paper.pdf) [Code](https://github.com/hazeld/rank-aware-attention-network) |
 | Surgical Skill Assessment on In-Vivo Clinical Data via the Clearness of Operating Field | **MICCAI 2019** | [Paper](https://arxiv.org/abs/2008.11954) |
 | Modeling Surgical Technical Skill Using Expert Assessment for Automated Computer Rating | **AnnS 2019** | |
@@ -84,6 +86,7 @@ TO DO:
 | Automated surgical skill assessment in RMIS training | **IJCARS 2018** | |
 | Video and accelerometer-based motion analysis for automated surgical skills assessment | **IJCARS 2018** | |
 | Deep learning with convolutional neural network for objective skill evaluation in robot-assisted surgery | **IJCARS 2018** | |
+| Surgical skills: Can learning curves be computed from recordings of surgical activities? | **IJCARS 2018** | [Paper](https://link.springer.com/article/10.1007%2Fs11548-018-1713-y) |
 | Automated robot‐assisted surgical skill evaluation: Predictive analytics approach | **IJMRCAR 2018** | |
 | Meaningful Assessment of Surgical Expertise: Semantic Labeling with Data and Crowds | **MICCAI 2016** | |
 | Automated video-based assessment of surgical skills for training and evaluation in medical schools | **IJCARS 2016** | |
@@ -108,10 +111,6 @@ TO DO:
 
 ## <span id = "phase"> **Surgical Phase Recognition** </span>
 
-
-
-
-
 | Title | Venue | Links |
 | :--------------------: | :-------------: | :-----: |
 | Temporal Memory Relation Network for Workflow Recognition from Surgical Video | **TMI 2021** | [Paper](https://arxiv.org/abs/2103.16327) [Code](https://github.com/YuemingJin/TMRNet) |
@@ -129,9 +128,11 @@ TO DO:
 | Machine and deep learning for workflow recognition during surgery | **MITAT 2019** | |
 | Assessment of automated identification of phases in videos of cataract surgery using machine learning and deep learning techniques | **JAMA 2019** | [Paper](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2729808) |
 | Multitask learning of temporal connectionism in convolutional networks using a joint distribution loss function to simultaneously identify tools and phase in surgical videos | **Arxiv 2019** | [Paper](https://arxiv.org/pdf/1905.08315.pdf) |
+| Toward a Neural-Symbolic Framework for Automated Workflow Analysis in Surgery | **MEDICON 2019** | [Paper](https://link.springer.com/chapter/10.1007%2F978-3-030-31635-8_192) |
 | SV-RCNet: Workflow Recognition from Surgical Videos using Recurrent Convolutional Network | **TMI 2018** | [Paper](https://ieeexplore.ieee.org/document/8240734) [Code](https://github.com/YuemingJin/SV-RCNet) |
 | DeepPhase: Surgical Phase Recognition in CATARACTS Videos | **MICCAI 2018** | |
 | Surgical activity recognition in robot-assisted radical prostatectomy using deep learning | **MICCAI 2018** | [Paper](https://arxiv.org/pdf/1806.00466v1.pdf) |
+| Knowledge transfer for surgical activity prediction | **IJCARS 2018** | [Paper](https://link.springer.com/article/10.1007%2Fs11548-018-1768-9) |
 | Temporal coherence-based self-supervised learning for laparoscopic workflow analysis | **MICCAIW 2018** | [Paper](https://arxiv.org/abs/1806.06811) |
 | “Deep-Onto” network for surgical workflow and context recognition | **IJCARS 2018** | [Paper](https://link.springer.com/article/10.1007/s11548-018-1882-8) |
 | Less is More: Surgical Phase Recognition with Less Annotations through Self-Supervised Pre-training of CNN-LSTM Networks | **Arxiv 2018** | |
@@ -166,6 +167,7 @@ TO DO:
 | Segmenting and classifying activities in robot-assisted surgery with recurrent neural networks | **IJCARS 2019** | [Paper](https://link.springer.com/article/10.1007%2Fs11548-019-01953-x) |
 | Deep Reinforcement Learning for Surgical Gesture Segmentation and Classification | **MICCAI 2018** | [Paper](https://arxiv.org/abs/1806.08089v1) [Code](https://github.com/Finspire13/RL-Surgical-Gesture-Segmentation) | 
 | Unsupervised learning for surgical motion by learning to predict the future | **MICCAI 2018** | | 
+| Surgical motion analysis using discriminative interpretable patterns | **AIM 2018** | [Paper](https://www.sciencedirect.com/science/article/pii/S0933365717306681?via%3Dihub) |
 | A dataset and benchmarks for segmentation and recognition of gestures in robotic surgery | **TBE 2017**| |
 | Temporal Convolutional Networks for Action Segmentation and Detection | **CVPR 2017** | |
 | Temporal convolutional networks: A unified approach to action segmentation | **ECCVW 2016** | |
@@ -198,6 +200,7 @@ TO DO:
 | Automated Surgical Instrument Detection from Laparoscopic Gastrectomy Video Images Using an Open Source Convolutional Neural Network Platform | **JACS 2020** | |
 | BARNet: Bilinear Attention Network with Adaptive Receptive Field for Surgical Instrument Segmentation | **Arxiv 2020** | |
 | Multi-Task Recurrent Convolutional Network with Correlation Loss for Surgical Video Analysis | **MIA 2020** | [Paper](https://arxiv.org/abs/1907.06099) [Code](https://github.com/YuemingJin/MTRCNet-CL) |
+| Real-time surgical needle detection using region-based convolutional neural networks | **IJCARS 2020** | [Paper](https://link.springer.com/article/10.1007%2Fs11548-019-02050-9) |
 | Learning Representations of Endoscopic Videos to Detect Tool Presence Without Supervision | **ML-CDS 2020** | [Paper](https://link.springer.com/chapter/10.1007/978-3-030-60946-7_6) [Code](https://github.com/zdavidli/tool-presence/) |
 | Incorporating Temporal Prior from Motion Flow for Instrument Segmentation in Minimally Invasive Surgery Video | **MICCAI 2019** | [Paper](https://arxiv.org/abs/1907.07899) [Code](https://github.com/keyuncheng/MF-TAPNet) |
 | Weakly supervised convolutional LSTM approach for tool tracking in laparoscopic videos | **IJCARS 2019** | |
@@ -278,6 +281,7 @@ TO DO:
 | Orientation Matters: 6-DoF Autonomous Camera Movement for Minimally Invasive Surgery | **Arxiv 2020** | [Paper](https://arxiv.org/pdf/2012.02836.pdf) |
 | Future-State Predicting LSTM for Early Surgery Type Recognition | **TMI 2019** | [Paper](https://arxiv.org/abs/1811.11727) |
 | Dense depth estimation in monocular endoscopy with self-supervised learning methods | **TMI 2019** |  |
+| Real-time identification of blood regions for hemostasis support in laparoscopic surgery | **SIVP 2019** | [Paper](https://link.springer.com/article/10.1007%2Fs11760-018-1369-7) | 
 | RSDNet: Learning to Predict Remaining Surgery Duration from Laparoscopic Videos Without Manual Annotations | **TMI 2018** | [Paper](https://ieeexplore.ieee.org/document/8509608) |
 | Learning to see forces: Surgical force prediction with rgb-point cloud temporal convolutional networks | **MICCAIW 2018** | [Paper](https://link.springer.com/chapter/10.1007/978-3-030-01201-4_14) |
 | Deep Neural Networks Predict Remaining Surgery Duration from Cholecystectomy Videos | **MICCAI 2017** | [Paper](https://link.springer.com/chapter/10.1007/978-3-319-66185-8_66) |

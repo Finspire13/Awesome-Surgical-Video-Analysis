@@ -115,11 +115,14 @@ TO DO:
 | Assessment of automated identification of phases in videos of cataract surgery using machine learning and deep learning techniques | **JAMA 2019** | [Paper](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2729808) |
 | SV-RCNet: Workflow Recognition from Surgical Videos using Recurrent Convolutional Network | **TMI 2018** | [Paper](https://ieeexplore.ieee.org/document/8240734) [Code](https://github.com/YuemingJin/SV-RCNet) |
 | DeepPhase: Surgical Phase Recognition in CATARACTS Videos | **MICCAI 2018** | |
+| Temporal coherence-based self-supervised learning for laparoscopic workflow analysis | **MICCAIW 2018** | [Paper](https://arxiv.org/abs/1806.06811) |
 | Less is More: Surgical Phase Recognition with Less Annotations through Self-Supervised Pre-training of CNN-LSTM Networks | **Arxiv 2018** | |
 | EndoNet: A Deep Architecture for Recognition Tasks on Laparoscopic Videos | **TMI 2017**| |
 | Unsupervised temporal context learning using convolutional neural networks for laparoscopic workflow analysis | **Arxiv 2017** | [Paper](https://arxiv.org/pdf/1702.03684.pdf) |
 | System events: readily accessible features for surgical phase detection | **IJCARS 2016** | [Paper](https://link.springer.com/article/10.1007/s11548-016-1409-0) |
+| Automatic data-driven real-time segmentation and recognition of surgical workflow | **IJCARS 2016** | [Paper](https://hal.archives-ouvertes.fr/hal-01299344/document) | 
 | MICCAI Workflow Challenge: Convolutional neural networks with time smoothing and Hidden Markov Model for video frames classification | **Arxiv 2016** | |
+| Lapontospm: an ontology for laparoscopic surgeries and its application to surgical phase recognition | **IJCARS 2015** | [Paper](https://link.springer.com/article/10.1007%2Fs11548-015-1222-1) | 
 | Statistical modeling and recognition of surgical workflow | **MIA 2012** | |
 | An application-dependent framework for the recognition of high-level surgical tasks in the OR | **TBE 2011** | |
 | Modeling and Segmentation of Surgical Workflow from Laparoscopic Video | **MICCAI 2010** | |
@@ -225,6 +228,7 @@ TO DO:
 | A Multi-view RGB-D Approach for Human Pose Estimation in Operating Rooms | **WACV 2017** | [Paper](https://arxiv.org/abs/1701.07372) |
 | Pictorial Structures on RGB-D Images for Human Pose Estimation in the Operating Room | **MICCAI 2015** | [Paper](https://link.springer.com/chapter/10.1007/978-3-319-24553-9_45) |
 | Data-driven Spatio-temporal RGBD Feature Encoding for Action Recognition in Operating Rooms | **IJCARS 2015** | [Paper](https://link.springer.com/article/10.1007/s11548-015-1186-1) |
+| Video based activity recognition in trauma resuscitation | **FG 2013** | [Paper](https://ieeexplore.ieee.org/document/6553758) |
 
 
 ## <span id = "navigation"> **Video-Based Navigation in Surgery** </span>
@@ -257,6 +261,7 @@ TO DO:
 | Projective biomechanical depth matching for soft tissue registration in laparoscopic surgery | **IJCARS 2017** | [Paper](https://link.springer.com/article/10.1007/s11548-017-1613-6) | 
 | Query-by-example surgical activity detection | **IJCARS 2016** | [Paper](https://link.springer.com/article/10.1007/s11548-016-1386-3) |
 | Classification Approach for Automatic Laparoscopic Video Database Organization | **IJCARS 2015** | [Paper](https://link.springer.com/article/10.1007/s11548-015-1183-4) |
+| Smoke detection in endoscopic surgery videos: a first step towards retrieval of semantic events | **IJMRCAS 2015** | [Paper](https://onlinelibrary.wiley.com/doi/abs/10.1002/rcs.1578) |
 | Fisher Kernel Based Task Boundary Retrieval in Laparoscopic Database with Single Video Query | **MICCAI 2014** | [Paper](https://link.springer.com/chapter/10.1007/978-3-319-10443-0_52) |
 | Real-time dense stereo reconstruction using convex optimisation with a cost-volume for image-guided robotic surgery | **MICCAI 2013** | [Paper](https://link.springer.com/chapter/10.1007/978-3-642-40811-3_6) |
 | Vision-based proximity detection in retinal surgery | **TBE 2012** | [Paper](https://ieeexplore.ieee.org/document/6212340) |

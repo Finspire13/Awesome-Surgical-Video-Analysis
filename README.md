@@ -59,9 +59,10 @@ TO DO:
 
 | Title | Venue | Links |
 | :--------------------: | :-------------: | :-----: |
+| A Review on Deep Learning in Minimally Invasive Surgery | **IEEE Access 2021** | [Paper](https://ieeexplore.ieee.org/abstract/document/9386091) |
+| Gesture Recognition in Robotic Surgery: a Review | **TBE 2021** | [Paper](https://iris.ucl.ac.uk/iris/publication/1845816/1) |
 | Objective assessment of surgical technical skill and competency in the operating room | **ARBE 2017** | [Paper](https://www.annualreviews.org/doi/10.1146/annurev-bioeng-071516-044435) |
 | Vision-based and marker-less surgical tool detection and tracking: a review of the literature | **MIA 2017** | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S1361841516301657?via%3Dihub) |
-| Gesture Recognition in Robotic Surgery: a Review | **TBE 2021** | [Paper](https://iris.ucl.ac.uk/iris/publication/1845816/1) |
 | Surgical process modelling: a review | **IJCARS 2013** | [Paper](https://link.springer.com/article/10.1007%2Fs11548-013-0940-5) |
 
 
@@ -196,6 +197,7 @@ TO DO:
 | :--------------------: | :-------------: | :-----: |
 | One to Many: Adaptive Instrument Segmentation via Meta Learning and Dynamic Online Adaptation in Robotic Surgical Video | **ICRA 2021** | [Paper](https://arxiv.org/abs/2103.12988) |
 | A Kinematic Bottleneck Approach For Pose Regression of Flexible Surgical Instruments directly from Images | **ICRA 2021** | [Paper](https://arxiv.org/abs/2103.00586) |
+| Simulation-to-real domain adaptation with teacher–student learning for endoscopic instrument segmentation | **IJCARS 2021** | [Paper](https://link.springer.com/article/10.1007/s11548-021-02383-4) | 
 | Unsupervised Surgical Instrument Segmentation via Anchor Generation and Semantic Diffusion | **MICCAI 2020** | [Paper](https://arxiv.org/abs/2008.11946) [Code](https://github.com/Finspire13/AGSD-Surgical-Instrument-Segmentation) |
 | Learning Motion Flows for Semi-supervised Instrument Segmentation from Robotic Surgical Video| **MICCAI 2020** | [Paper](https://arxiv.org/abs/2007.02501) [Code](https://github.com/zxzhaoeric/Semi-InstruSeg) |
 | Synthetic and Real Inputs for Tool Segmentation in Robotic Surgery | **MICCAI 2020** | [Paper](https://discovery.ucl.ac.uk/id/eprint/10113753/) | 

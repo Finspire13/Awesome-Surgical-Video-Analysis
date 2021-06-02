@@ -71,7 +71,7 @@ TO DO:
 
 | Title | Venue | Links |
 | :--------------------: | :-------------: | :-----: |
-| Towards Unified Surgical Skill Assessment | **CVPR 2021** | [Paper](http://www.vie.group/media/pdf/CVPR2021.pdf) |
+| Towards Unified Surgical Skill Assessment | **CVPR 2021** | [Paper](http://www.vie.group/media/pdf/CVPR2021_Puz4Y7Z.pdf) [Code](https://github.com/Finspire13/Towards-Unified-Surgical-Skill-Assessment) |
 | Clearness of Operating Field: A Surrogate for Surgical Skills on In-Vivo Clinical Data | **IJCARS 2020** | [Paper](https://link.springer.com/article/10.1007/s11548-020-02267-z) |
 | Predicting the quality of surgical exposure using spatial and procedural features from laparoscopic videos | **IJCARS 2020** | [Paper](https://link.springer.com/article/10.1007%2Fs11548-019-02072-3) |
 | The Pros and Cons: Rank-aware Temporal Attention for Skill Determination in Long Videos | **CVPR 2019** | [Paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Doughty_The_Pros_and_Cons_Rank-Aware_Temporal_Attention_for_Skill_Determination_CVPR_2019_paper.pdf) [Code](https://github.com/hazeld/rank-aware-attention-network) |

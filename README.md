@@ -8,11 +8,11 @@ TO DO:
 - Add links
 - Search for more papers
 - Better categories
-- Better curation
+- Better curation based on quality and modality 
 <!-- - Add 2020/2021 works for skill assessment
 - Elaborate on surgical phase/action recognition
 - Elaborate on surgical instrument/scene segmentation -->
-<!-- - De-duplicate -->
+- De-duplicate
 <!-- - last big 4
  -->
 <!--  - two pie charts (venue / Topic)
@@ -293,6 +293,7 @@ TO DO:
 | Projective biomechanical depth matching for soft tissue registration in laparoscopic surgery | **IJCARS 2017** | [Paper](https://link.springer.com/article/10.1007/s11548-017-1613-6) | 
 | Distinguishing surgical behavior by sequential pattern discovery | **JBI 2017** | [Paper](https://www.sciencedirect.com/science/article/pii/S1532046417300229) |
 | Finding discriminative and interpretable patterns in sequences of surgical activities | **AIM 2017** | [Paper](https://www.sciencedirect.com/science/article/pii/S0933365716305966?via%3Dihub) |
+| Automatic matching of surgeries to predict surgeons’ next actions | **AIM 2017** | [Paper](https://www.sciencedirect.com/science/article/pii/S093336571730129X) | 
 | Query-by-example surgical activity detection | **IJCARS 2016** | [Paper](https://link.springer.com/article/10.1007/s11548-016-1386-3) |
 | Classification Approach for Automatic Laparoscopic Video Database Organization | **IJCARS 2015** | [Paper](https://link.springer.com/article/10.1007/s11548-015-1183-4) |
 | Smoke detection in endoscopic surgery videos: a first step towards retrieval of semantic events | **IJMRCAS 2015** | [Paper](https://onlinelibrary.wiley.com/doi/abs/10.1002/rcs.1578) |

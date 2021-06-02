@@ -120,6 +120,7 @@ TO DO:
 | Multi-Task Temporal Convolutional Networks for Joint Recognition of Surgical Phases and Steps in Gastric Bypass | **IJCARS 2021** | [Paper](https://arxiv.org/abs/2102.12218v1) |
 | Train one, Classify one, Teach one"–Cross-surgery transfer learning for surgical step recognition | **MIDL 2021** | [Paper](https://arxiv.org/pdf/2102.12308v2.pdf) |
 | TeCNO: Surgical Phase Recognition with Multi-Stage Temporal Convolutional Networks | **MICCAI 2020** | |
+| Automated laparoscopic colorectal surgery workflow recognition using artificial intelligence: Experimental research | **IJS 2020** | [Paper](https://www.sciencedirect.com/science/article/pii/S1743919120303988) |
 | Multi-Task Recurrent Convolutional Network with Correlation Loss for Surgical Video Analysis | **MIA 2020** | [Paper](https://arxiv.org/abs/1907.06099) [Code](https://github.com/YuemingJin/MTRCNet-CL) |
 | LRTD: Long-Range Temporal Dependency based Active Learning for Surgical Workflow Recognition | **IJCARS 2020** | [Paper](https://link.springer.com/content/pdf/10.1007/s11548-020-02198-9.pdf) [Code](https://github.com/xmichelleshihx/AL-LRTD) |
 | Assisted phase and step annotation for surgical videos | **IJCARS 2020** | |
@@ -290,6 +291,8 @@ TO DO:
 | Learning to see forces: Surgical force prediction with rgb-point cloud temporal convolutional networks | **MICCAIW 2018** | [Paper](https://link.springer.com/chapter/10.1007/978-3-030-01201-4_14) |
 | Deep Neural Networks Predict Remaining Surgery Duration from Cholecystectomy Videos | **MICCAI 2017** | [Paper](https://link.springer.com/chapter/10.1007/978-3-319-66185-8_66) |
 | Projective biomechanical depth matching for soft tissue registration in laparoscopic surgery | **IJCARS 2017** | [Paper](https://link.springer.com/article/10.1007/s11548-017-1613-6) | 
+| Distinguishing surgical behavior by sequential pattern discovery | **JBI 2017** | [Paper](https://www.sciencedirect.com/science/article/pii/S1532046417300229) |
+| Finding discriminative and interpretable patterns in sequences of surgical activities | **AIM 2017** | [Paper](https://www.sciencedirect.com/science/article/pii/S0933365716305966?via%3Dihub) |
 | Query-by-example surgical activity detection | **IJCARS 2016** | [Paper](https://link.springer.com/article/10.1007/s11548-016-1386-3) |
 | Classification Approach for Automatic Laparoscopic Video Database Organization | **IJCARS 2015** | [Paper](https://link.springer.com/article/10.1007/s11548-015-1183-4) |
 | Smoke detection in endoscopic surgery videos: a first step towards retrieval of semantic events | **IJMRCAS 2015** | [Paper](https://onlinelibrary.wiley.com/doi/abs/10.1002/rcs.1578) |

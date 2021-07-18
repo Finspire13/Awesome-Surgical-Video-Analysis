@@ -35,8 +35,8 @@ TO DO:
 
 [Human / Activity in Operating Rooms](#operatingrooms)
 
-[Video-Based Navigation in Surgery](#navigation)
-
+<!-- [Video-Based Navigation in Surgery](#navigation)
+ -->
 [Others](#others)
 
 
@@ -261,7 +261,7 @@ TO DO:
 | Video based activity recognition in trauma resuscitation | **FG 2013** | [Paper](https://ieeexplore.ieee.org/document/6553758) |
 
 
-## <span id = "navigation"> **Video-Based Navigation in Surgery** </span>
+<!-- ## <span id = "navigation"> **Video-Based Navigation in Surgery** </span>
 
 | Title | Venue | Links |
 | :--------------------: | :-------------: | :-----: |
@@ -272,7 +272,7 @@ TO DO:
 | Intelligent viewpoint selection for efficient CT to video registration in laparoscopic liver surgery | **IJCARS 2017**| [Paper](https://discovery.ucl.ac.uk/id/eprint/1549761/) |
 | Rendering-based video-CT registration with physical constraints for image-guided endoscopic sinus surgery | **ISOP 2015** | [Paper](https://www.cs.jhu.edu/~areiter/JHU/Publications_files/Otake_SPIE2015_Paper_VideoCT_9415-8.pdf) |
 | A system for video-based navigation for endoscopic endonasal skull base surgery | **TMI 2011** | [Paper](http://www.cs.jhu.edu/~hwang/papers/TMI2011.pdf) |
-
+ -->
 ## <span id = "others"> **Others** </span>
 
 | Title | Venue | Links |
@@ -296,13 +296,15 @@ TO DO:
 | Automatic matching of surgeries to predict surgeons’ next actions | **AIM 2017** | [Paper](https://www.sciencedirect.com/science/article/pii/S093336571730129X) | 
 | Query-by-example surgical activity detection | **IJCARS 2016** | [Paper](https://link.springer.com/article/10.1007/s11548-016-1386-3) |
 | Classification Approach for Automatic Laparoscopic Video Database Organization | **IJCARS 2015** | [Paper](https://link.springer.com/article/10.1007/s11548-015-1183-4) |
+| Work domain constraints for modelling surgical performance | **IJCARS 2015** | [Paper](https://link.springer.com/article/10.1007%2Fs11548-015-1166-5) |
 | Smoke detection in endoscopic surgery videos: a first step towards retrieval of semantic events | **IJMRCAS 2015** | [Paper](https://onlinelibrary.wiley.com/doi/abs/10.1002/rcs.1578) |
 | Fisher Kernel Based Task Boundary Retrieval in Laparoscopic Database with Single Video Query | **MICCAI 2014** | [Paper](https://link.springer.com/chapter/10.1007/978-3-319-10443-0_52) |
+| Non-linear temporal scaling of surgical processes | **AIM 2014** | [Paper](https://www.sciencedirect.com/science/article/pii/S0933365714001225?via%3Dihu) |
+| Surgical process modelling: a review | **IJCARS 2014** | [Paper](https://link.springer.com/article/10.1007/s11548-013-0940-5) |
 | Real-time dense stereo reconstruction using convex optimisation with a cost-volume for image-guided robotic surgery | **MICCAI 2013** | [Paper](https://link.springer.com/chapter/10.1007/978-3-642-40811-3_6) |
 | Vision-based proximity detection in retinal surgery | **TBE 2012** | [Paper](https://ieeexplore.ieee.org/document/6212340) |
-
-
-
+| Automatic knowledge-based recognition of low-level tasks in ophthalmological procedures | **IJCARS 2012** | [Paper](https://link.springer.com/article/10.1007%2Fs11548-012-0685-6) |
+| Similarity metrics for surgical process models | **AIM 2012** | [Paper](https://www.sciencedirect.com/science/article/pii/S0933365711001394?via%3Dihub) |
 
 
 

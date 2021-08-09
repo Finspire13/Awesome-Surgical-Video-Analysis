@@ -7,12 +7,10 @@ _**Under development. Welcome to contribute.**_
 TO DO:
 - Add links
 - Search for more papers
-- Better categories
-- Better curation based on quality and modality 
+- Better categories, Better curation
 <!-- - Add 2020/2021 works for skill assessment
 - Elaborate on surgical phase/action recognition
 - Elaborate on surgical instrument/scene segmentation -->
-- De-duplicate
 <!-- - last big 4
  -->
 <!--  - two pie charts (venue / Topic)
@@ -116,6 +114,7 @@ TO DO:
 
 | Title | Venue | Links |
 | :--------------------: | :-------------: | :-----: |
+| OperA: Attention-Regularized Transformers for Surgical Phase Recognition | **MICCAI 2021** | [Paper](https://arxiv.org/abs/2103.03873) |
 | Temporal Memory Relation Network for Workflow Recognition from Surgical Video | **TMI 2021** | [Paper](https://arxiv.org/abs/2103.16327) [Code](https://github.com/YuemingJin/TMRNet) |
 | Multi-Task Temporal Convolutional Networks for Joint Recognition of Surgical Phases and Steps in Gastric Bypass | **IJCARS 2021** | [Paper](https://arxiv.org/abs/2102.12218v1) |
 | Train one, Classify one, Teach one"–Cross-surgery transfer learning for surgical step recognition | **MIDL 2021** | [Paper](https://arxiv.org/pdf/2102.12308v2.pdf) |
@@ -132,7 +131,7 @@ TO DO:
 | Machine and deep learning for workflow recognition during surgery | **MITAT 2019** | |
 | Assessment of automated identification of phases in videos of cataract surgery using machine learning and deep learning techniques | **JAMA 2019** | [Paper](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2729808) |
 | Multitask learning of temporal connectionism in convolutional networks using a joint distribution loss function to simultaneously identify tools and phase in surgical videos | **Arxiv 2019** | [Paper](https://arxiv.org/pdf/1905.08315.pdf) |
-| Toward a Neural-Symbolic Framework for Automated Workflow Analysis in Surgery | **MEDICON 2019** | [Paper](https://link.springer.com/chapter/10.1007%2F978-3-030-31635-8_192) |
+<!-- | Toward a Neural-Symbolic Framework for Automated Workflow Analysis in Surgery | **MEDICON 2019** | [Paper](https://link.springer.com/chapter/10.1007%2F978-3-030-31635-8_192) | -->
 | SV-RCNet: Workflow Recognition from Surgical Videos using Recurrent Convolutional Network | **TMI 2018** | [Paper](https://ieeexplore.ieee.org/document/8240734) [Code](https://github.com/YuemingJin/SV-RCNet) |
 | DeepPhase: Surgical Phase Recognition in CATARACTS Videos | **MICCAI 2018** | |
 | Surgical activity recognition in robot-assisted radical prostatectomy using deep learning | **MICCAI 2018** | [Paper](https://arxiv.org/pdf/1806.00466v1.pdf) |
@@ -152,9 +151,9 @@ TO DO:
 | A framework for the recognition of high-level surgical tasks from video images for cataract surgeries | **TBE 2012** | [Paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3432023/) |
 | An application-dependent framework for the recognition of high-level surgical tasks in the OR | **TBE 2011** | |
 | Modeling and Segmentation of Surgical Workflow from Laparoscopic Video | **MICCAI 2010** | |
-| Surgical phases detection from microscope videos by combining SVM and HMM | **MICCAIW 2010** | |
-| On-line recognition of surgical activity for monitoring in the operating room | **IAAI 2008** | |
-
+<!-- | Surgical phases detection from microscope videos by combining SVM and HMM | **MICCAIW 2010** | | -->
+<!-- | On-line recognition of surgical activity for monitoring in the operating room | **IAAI 2008** | |
+ -->
 
 
 
@@ -196,13 +195,15 @@ TO DO:
 
 | Title | Venue | Links |
 | :--------------------: | :-------------: | :-----: |
+| Co-Generation and Segmentation for Generalized Surgical Instrument Segmentation on Unlabelled Data | **MICCAI 2021** | [Paper](https://arxiv.org/pdf/2103.09276.pdf) |
 | One to Many: Adaptive Instrument Segmentation via Meta Learning and Dynamic Online Adaptation in Robotic Surgical Video | **ICRA 2021** | [Paper](https://arxiv.org/abs/2103.12988) |
 | A Kinematic Bottleneck Approach For Pose Regression of Flexible Surgical Instruments directly from Images | **ICRA 2021** | [Paper](https://arxiv.org/abs/2103.00586) |
 | Simulation-to-real domain adaptation with teacher–student learning for endoscopic instrument segmentation | **IJCARS 2021** | [Paper](https://link.springer.com/article/10.1007/s11548-021-02383-4) | 
+| Searching for Efficient Architecture for Instrument Segmentation in Robotic Surgery | **MICCAI 2020** | [Paper](https://arxiv.org/pdf/2007.04449v1.pdf) |
 | Unsupervised Surgical Instrument Segmentation via Anchor Generation and Semantic Diffusion | **MICCAI 2020** | [Paper](https://arxiv.org/abs/2008.11946) [Code](https://github.com/Finspire13/AGSD-Surgical-Instrument-Segmentation) |
 | Learning Motion Flows for Semi-supervised Instrument Segmentation from Robotic Surgical Video| **MICCAI 2020** | [Paper](https://arxiv.org/abs/2007.02501) [Code](https://github.com/zxzhaoeric/Semi-InstruSeg) |
 | Synthetic and Real Inputs for Tool Segmentation in Robotic Surgery | **MICCAI 2020** | [Paper](https://discovery.ucl.ac.uk/id/eprint/10113753/) | 
-| Automated Surgical Instrument Detection from Laparoscopic Gastrectomy Video Images Using an Open Source Convolutional Neural Network Platform | **JACS 2020** | |
+<!-- | Automated Surgical Instrument Detection from Laparoscopic Gastrectomy Video Images Using an Open Source Convolutional Neural Network Platform | **JACS 2020** | | -->
 | BARNet: Bilinear Attention Network with Adaptive Receptive Field for Surgical Instrument Segmentation | **Arxiv 2020** | |
 | Multi-Task Recurrent Convolutional Network with Correlation Loss for Surgical Video Analysis | **MIA 2020** | [Paper](https://arxiv.org/abs/1907.06099) [Code](https://github.com/YuemingJin/MTRCNet-CL) |
 | Real-time surgical needle detection using region-based convolutional neural networks | **IJCARS 2020** | [Paper](https://link.springer.com/article/10.1007%2Fs11548-019-02050-9) |
@@ -213,7 +214,7 @@ TO DO:
 | Learning Where to Look While Tracking Instruments in Robot-assisted Surgery | **MICCAI 2019** | |
 | Patch-based adaptive weighting with segmentation and scale (PAWSS) for visual tracking in surgical video | **MIA 2019** | [Paper](https://www.sciencedirect.com/science/article/pii/S1361841519300593) |
 | CATARACTS: Challenge on automatic tool annotation for cataRACT surgery | **MIA 2019** | |
-| Deep residual learning for instrument segmentation in robotic surgery | **MLMI 2019** | |
+<!-- | Deep residual learning for instrument segmentation in robotic surgery | **MLMI 2019** | | -->
 | 2017 robotic instrument segmentation challenge | **Arxiv 2019** | |
 | Multitask learning of temporal connectionism in convolutional networks using a joint distribution loss function to simultaneously identify tools and phase in surgical videos | **Arxiv 2019** | [Paper](https://arxiv.org/pdf/1905.08315.pdf) |
 | U-NetPlus: A Modified Encoder-Decoder U-Net Architecture for Semantic and Instance Segmentation of Surgical Instruments from Laparoscopic Images | **EMBC 2019**| |
@@ -231,7 +232,8 @@ TO DO:
 | Real-time localization of articulated surgical instruments in retinal microsurgery | **MIA 2016** | |
 | Combined 2D and 3D tracking of surgical instruments for minimally invasive and robotic-assisted surgery | **IJCARS 2016** | [Paper](https://discovery.ucl.ac.uk/id/eprint/1480794/) |
 | Detecting surgical tools by modelling local appearance and global shape | **TMI 2015** | |
-| Visual tracking of da vinci instruments for laparoscopic surgery | **MI 2014**| |
+| Surgical Tool Tracking and Pose Estimation in Retinal Microsurgery | **MICCAI 2015** | [Paper](https://link.springer.com/chapter/10.1007/978-3-319-24553-9_33) |
+<!-- | Visual tracking of da vinci instruments for laparoscopic surgery | **MI 2014**| | -->
 | Toward Detection and Localization of Instruments in Minimally Invasive Surgery | **TBE 2013** | [Paper](https://ieeexplore.ieee.org/document/6359786) |
 | Unified detection and tracking of instruments during retinal microsurgery | **TPAMI 2013** | [Paper](https://ieeexplore.ieee.org/document/6319313) |
 | Data-driven visual tracking in retinal microsurgery | **MICCAI 2012** | [Paper](https://link.springer.com/chapter/10.1007%2F978-3-642-33418-4_70) |
@@ -291,6 +293,7 @@ TO DO:
 | Learning to see forces: Surgical force prediction with rgb-point cloud temporal convolutional networks | **MICCAIW 2018** | [Paper](https://link.springer.com/chapter/10.1007/978-3-030-01201-4_14) |
 | Deep Neural Networks Predict Remaining Surgery Duration from Cholecystectomy Videos | **MICCAI 2017** | [Paper](https://link.springer.com/chapter/10.1007/978-3-319-66185-8_66) |
 | Projective biomechanical depth matching for soft tissue registration in laparoscopic surgery | **IJCARS 2017** | [Paper](https://link.springer.com/article/10.1007/s11548-017-1613-6) | 
+| Surgical Soundtracks: Towards Automatic Musical Augmentation of Surgical Procedures | **MICCAI 2017** | [Paper](https://link.springer.com/chapter/10.1007/978-3-319-66185-8_76) |
 | Distinguishing surgical behavior by sequential pattern discovery | **JBI 2017** | [Paper](https://www.sciencedirect.com/science/article/pii/S1532046417300229) |
 | Finding discriminative and interpretable patterns in sequences of surgical activities | **AIM 2017** | [Paper](https://www.sciencedirect.com/science/article/pii/S0933365716305966?via%3Dihub) |
 | Automatic matching of surgeries to predict surgeons’ next actions | **AIM 2017** | [Paper](https://www.sciencedirect.com/science/article/pii/S093336571730129X) | 

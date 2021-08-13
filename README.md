@@ -279,6 +279,7 @@ TO DO:
 
 | Title | Venue | Links |
 | :--------------------: | :-------------: | :-----: |
+| E-DSSR: Efficient Dynamic Surgical Scene Reconstruction with Transformer-based Stereoscopic Depth Perception | **MICCAI 2021** | [Paper](https://arxiv.org/pdf/2107.00229.pdf) |
 | Learning Domain Adaptation with Model Calibration for Surgical Report Generation in Robotic Surgery | **ICRA 2021** | |
 | A Computer Vision Platform to Automatically Locate Critical Events in Surgical Videos | **AnnS 2021** | [Paper](https://journals.lww.com/annalsofsurgery/Abstract/9000/A_Computer_Vision_Platform_to_Automatically_Locate.93788.aspx) |
 | Ethical implications of AI in robotic surgical training: A Delphi consensus statement | **EUF 2021** | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S2405456921001127) |

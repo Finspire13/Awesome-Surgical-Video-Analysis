@@ -279,6 +279,7 @@ TO DO:
 
 | Title | Venue | Links |
 | :--------------------: | :-------------: | :-----: |
+| Surgical Instruction Generation with Transformers | **MICCAI 2021** | [Paper](https://arxiv.org/pdf/2107.06964.pdf) |
 | SurgeonAssist-Net: Towards Context-Aware Head-Mounted Display-Based Augmented Reality for Surgical Guidance | **MICCAI 2021** | [Paper](https://arxiv.org/pdf/2107.06397.pdf) |
 | E-DSSR: Efficient Dynamic Surgical Scene Reconstruction with Transformer-based Stereoscopic Depth Perception | **MICCAI 2021** | [Paper](https://arxiv.org/pdf/2107.00229.pdf) |
 | Learning Domain Adaptation with Model Calibration for Surgical Report Generation in Robotic Surgery | **ICRA 2021** | |

@@ -279,6 +279,7 @@ TO DO:
 
 | Title | Venue | Links |
 | :--------------------: | :-------------: | :-----: |
+| SurgeonAssist-Net: Towards Context-Aware Head-Mounted Display-Based Augmented Reality for Surgical Guidance | **MICCAI 2021** | [Paper](https://arxiv.org/pdf/2107.06397.pdf) |
 | E-DSSR: Efficient Dynamic Surgical Scene Reconstruction with Transformer-based Stereoscopic Depth Perception | **MICCAI 2021** | [Paper](https://arxiv.org/pdf/2107.00229.pdf) |
 | Learning Domain Adaptation with Model Calibration for Surgical Report Generation in Robotic Surgery | **ICRA 2021** | |
 | A Computer Vision Platform to Automatically Locate Critical Events in Surgical Videos | **AnnS 2021** | [Paper](https://journals.lww.com/annalsofsurgery/Abstract/9000/A_Computer_Vision_Platform_to_Automatically_Locate.93788.aspx) |

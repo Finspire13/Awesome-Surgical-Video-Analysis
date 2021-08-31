@@ -75,11 +75,11 @@ TO DO:
 | Predicting the quality of surgical exposure using spatial and procedural features from laparoscopic videos | **IJCARS 2020** | [Paper](https://link.springer.com/article/10.1007%2Fs11548-019-02072-3) |
 | The Pros and Cons: Rank-aware Temporal Attention for Skill Determination in Long Videos | **CVPR 2019** | [Paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Doughty_The_Pros_and_Cons_Rank-Aware_Temporal_Attention_for_Skill_Determination_CVPR_2019_paper.pdf) [Code](https://github.com/hazeld/rank-aware-attention-network) |
 | Surgical Skill Assessment on In-Vivo Clinical Data via the Clearness of Operating Field | **MICCAI 2019** | [Paper](https://arxiv.org/abs/2008.11954) |
-| Modeling Surgical Technical Skill Using Expert Assessment for Automated Computer Rating | **AnnS 2019** | |
-| Towards Optimizing Convolutional Neural Networks for Robotic Surgery Skill Evaluation | **IJCNN 2019** | |
+| Modeling Surgical Technical Skill Using Expert Assessment for Automated Computer Rating | **AnnS 2019** | [Paper](https://www.researchgate.net/publication/319558609_Modeling_Surgical_Technical_Skill_Using_Expert_Assessment_for_Automated_Computer_Rating) |
+| Towards Optimizing Convolutional Neural Networks for Robotic Surgery Skill Evaluation | **IJCNN 2019** | [Paper](https://www.researchgate.net/publication/336167355_Towards_Optimizing_Convolutional_Neural_Networks_for_Robotic_Surgery_Skill_Evaluation) |
 | Video-based surgical skill assessment using 3D convolutional neural networks | **IJCARS 2019** | [Paper](https://arxiv.org/abs/1903.02306) [Code](https://gitlab.com/nct_tso_public/surgical_skill_classification?utm_source=catalyzex.com) |
 | Accurate and interpretable evaluation of surgical skills from kinematic data using fully convolutional neural networks | **IJCARS 2019** | [Paper](https://arxiv.org/pdf/1908.07319.pdf) [Code](https://github.com/hfawaz/ijcars19) |
-| Machine learning methods for automated technical skills assessment with instructional feedback in ultrasound-guided interventions | **IJCARS 2019** | |
+| Machine learning methods for automated technical skills assessment with instructional feedback in ultrasound-guided interventions | **IJCARS 2019** | [Paper](https://www.researchgate.net/publication/332546556_Machine_learning_methods_for_automated_technical_skills_assessment_with_instructional_feedback_in_ultrasound-guided_interventions) |
 | Objective assessment of intraoperative technical skill in capsulorhexis using videos of cataract surgery | **IJCARS 2019** | [Paper](https://www.cs.jhu.edu/~tkim60/files/IJCARS_FINAL.pdf) |
 | Objective classification of psychomotor laparoscopic skills of surgeons based on three different approaches | **IJCARS 2019** | |
 | Who’s Better? Who’s Best? Pairwise Deep Ranking for Skill Determination | **CVPR 2018** | |

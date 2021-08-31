@@ -80,7 +80,7 @@ TO DO:
 | Video-based surgical skill assessment using 3D convolutional neural networks | **IJCARS 2019** | [Paper](https://arxiv.org/abs/1903.02306) [Code](https://gitlab.com/nct_tso_public/surgical_skill_classification?utm_source=catalyzex.com) |
 | Accurate and interpretable evaluation of surgical skills from kinematic data using fully convolutional neural networks | **IJCARS 2019** | [Paper](https://arxiv.org/pdf/1908.07319.pdf) [Code](https://github.com/hfawaz/ijcars19) |
 | Machine learning methods for automated technical skills assessment with instructional feedback in ultrasound-guided interventions | **IJCARS 2019** | |
-| Objective assessment of intraoperative technical skill in capsulorhexis using videos of cataract surgery | **IJCARS 2019** | |
+| Objective assessment of intraoperative technical skill in capsulorhexis using videos of cataract surgery | **IJCARS 2019** | [Paper](https://www.cs.jhu.edu/~tkim60/files/IJCARS_FINAL.pdf) |
 | Objective classification of psychomotor laparoscopic skills of surgeons based on three different approaches | **IJCARS 2019** | |
 | Who’s Better? Who’s Best? Pairwise Deep Ranking for Skill Determination | **CVPR 2018** | |
 | Tool Detection and Operative Skill Assessment in Surgical Videos Using Region-Based Convolutional Neural Networks | **WACV 2018** | |

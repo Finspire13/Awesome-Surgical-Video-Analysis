@@ -69,6 +69,7 @@ TO DO:
 
 | Title | Venue | Links |
 | :--------------------: | :-------------: | :-----: |
+| Development and Validation of a 3-Dimensional Convolutional Neural Network for Automatic Surgical Skill Assessment Based on Spatiotemporal Video Analysis | **JAMA 2021** | [Paper](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2782991?utm_campaign=articlePDF&utm_medium=articlePDFlink&utm_source=articlePDF&utm_content=jamanetworkopen.2021.20786) |
 | Towards Unified Surgical Skill Assessment | **CVPR 2021** | [Paper](http://www.vie.group/media/pdf/CVPR2021_Puz4Y7Z.pdf) [Code](https://github.com/Finspire13/Towards-Unified-Surgical-Skill-Assessment) |
 | Clearness of Operating Field: A Surrogate for Surgical Skills on In-Vivo Clinical Data | **IJCARS 2020** | [Paper](https://link.springer.com/article/10.1007/s11548-020-02267-z) |
 | Predicting the quality of surgical exposure using spatial and procedural features from laparoscopic videos | **IJCARS 2020** | [Paper](https://link.springer.com/article/10.1007%2Fs11548-019-02072-3) |

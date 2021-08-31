@@ -77,7 +77,7 @@ TO DO:
 | Surgical Skill Assessment on In-Vivo Clinical Data via the Clearness of Operating Field | **MICCAI 2019** | [Paper](https://arxiv.org/abs/2008.11954) |
 | Modeling Surgical Technical Skill Using Expert Assessment for Automated Computer Rating | **AnnS 2019** | |
 | Towards Optimizing Convolutional Neural Networks for Robotic Surgery Skill Evaluation | **IJCNN 2019** | |
-| Video-based surgical skill assessment using 3D convolutional neural networks | **IJCARS 2019** | |
+| Video-based surgical skill assessment using 3D convolutional neural networks | **IJCARS 2019** | [Paper](https://arxiv.org/abs/1903.02306) [Code](https://gitlab.com/nct_tso_public/surgical_skill_classification?utm_source=catalyzex.com) |
 | Accurate and interpretable evaluation of surgical skills from kinematic data using fully convolutional neural networks | **IJCARS 2019** | [Paper](https://arxiv.org/pdf/1908.07319.pdf) [Code](https://github.com/hfawaz/ijcars19) |
 | Machine learning methods for automated technical skills assessment with instructional feedback in ultrasound-guided interventions | **IJCARS 2019** | |
 | Objective assessment of intraoperative technical skill in capsulorhexis using videos of cataract surgery | **IJCARS 2019** | |

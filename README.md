@@ -59,6 +59,7 @@ TO DO:
 | :--------------------: | :-------------: | :-----: |
 | A Review on Deep Learning in Minimally Invasive Surgery | **IEEE Access 2021** | [Paper](https://ieeexplore.ieee.org/abstract/document/9386091) |
 | Deep neural networks for the assessment of surgical skills: A systematic review | **IEEE Access 2021** | [Paper](https://arxiv.org/pdf/2103.05113) |
+| Current methods for assessing technical skill in cataract surgery | **JCRS 2021** | [Paper](https://journals.lww.com/jcrs/Abstract/2021/02000/Current_methods_for_assessing_technical_skill_in.18.aspx) |
 | Gesture Recognition in Robotic Surgery: a Review | **TBE 2021** | [Paper](https://iris.ucl.ac.uk/iris/publication/1845816/1) |
 | Objective assessment of surgical technical skill and competency in the operating room | **ARBE 2017** | [Paper](https://www.annualreviews.org/doi/10.1146/annurev-bioeng-071516-044435) |
 | Vision-based and marker-less surgical tool detection and tracking: a review of the literature | **MIA 2017** | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S1361841516301657?via%3Dihub) |

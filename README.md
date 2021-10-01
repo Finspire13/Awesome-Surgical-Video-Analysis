@@ -111,7 +111,20 @@ TO DO:
 | Eye Metrics as an Objective Assessment of Surgical Skill | **AnnS 2010** | |
 | Surgical Task and Skill Classification from Eye Tracking and Tool Motion in Minimally Invasive Surgery | **MICCAI 2010** | |
 | Task versus Subtask Surgical Skill Evaluation of Robotic Minimally Invasive Surgery | **MICCAI 2009** | |
-| Data-derived models for segmentation with application to surgical assessment and training | **MICCAI 2009** | |
+| Data-derived models for segmentation with application to surgical assessment and training | **MICCAI 2009** | 
+| Multitask learning for video-based surgical skill assessment | **DICTA 2009** | [Paper](https://researchers.mq.edu.au/en/publications/multitask-learning-for-video-based-surgical-skill-assessment) | |
+
+## <span id = "transfer"> **Surgical Skill Transfer** </span>
+
+| Title | Venue | Links |
+| :--------------------: | :-------------: | :-----: |
+| Adaptive Surgical Robotic Training Using Real-Time Stylistic Behavior Feedback Through Haptic Cues | **CoRR 2021** | [Paper](https://arxiv.org/pdf/2101.00097) |
+| Robot-Assisted Training in Laparoscopy Using Deep Reinforcement Learning | **IEEE RAL 2019** | [Paper](https://www.semanticscholar.org/paper/Robot-Assisted-Training-in-Laparoscopy-Using-Deep-Tan-Chng/f0df16721c94e57d60d1b4ca53c7755caf22626b) |
+| Towards Skill Transfer via Learning-Based Guidance in Human-Robot Interaction: An Application to Orthopaedic Surgical Drilling Skill | **JINT 2020** | [Paper](https://link.springer.com/article/10.1007/s10846-019-01082-2) |
+| Deep Learning-Based Haptic Guidance for Surgical Skills Transfer | **FiRaA 2021** | [Paper](https://www.frontiersin.org/articles/10.3389/frobt.2020.586707/full) |
+| Human-robot skills transfer interfaces for a flexible surgical robot | **CMaPiB 2014** | [Paper](https://dl.acm.org/doi/abs/10.1016/j.cmpb.2013.12.015) |
+| DESK: A Robotic Activity Dataset for Dexterous Surgical Skills Transfer to Medical Robots | **RSJ 2019** | [Paper](https://arxiv.org/pdf/1903.00959) [Code](https://github.com/nmadapan/Forward_Project?utm_source=catalyzex.com) |
+| Transferring Dexterous Surgical Skill Knowledge between Robots for Semi-autonomous Teleoperation | **CoRaHIC 2019** | [Paper](https://www.researchgate.net/publication/335013887_Transferring_Dexterous_Surgical_Skill_Knowledge_between_Robots_for_Semi-autonomous_Teleoperation) | |
 
 ## <span id = "phase"> **Surgical Phase Recognition** </span>
 

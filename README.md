@@ -23,6 +23,8 @@ TO DO:
 
 [Surgical Skill Assessment](#skill)
 
+[Surgical Skill Transfer](#transfer)
+
 [Surgical Phase Recognition](#phase)
 
 [Surgical Gesture Recognition](#gesture)

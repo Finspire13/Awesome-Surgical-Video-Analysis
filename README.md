@@ -8,13 +8,12 @@ _**Keep updating. Welcome to contribute.**_
 - Add links
 - Search for more papers
 - Better categories, Better curation
-<!-- - Add 2020/2021 works for skill assessment
+- Add 2020/2021 works for skill assessment
 - Elaborate on surgical phase/action recognition
-- Elaborate on surgical instrument/scene segmentation -->
-<!-- - last big 4
- -->
-<!--  - two pie charts (venue / Topic)
-  --> -->
+- Elaborate on surgical instrument/scene segmentation
+- last big 4
+- two pie charts (venue / Topic) -->
+
 ## Contents
 
 [The Big Picture](#picture)

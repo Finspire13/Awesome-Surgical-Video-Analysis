@@ -56,6 +56,7 @@ _**Keep updating. Welcome to contribute.**_
 
 | Title | Venue | Links |
 | :--------------------: | :-------------: | :-----: |
+| Machine learning for technical skill assessment in surgery: a systematic review | **NPJ 2022** | [Paper](https://www.nature.com/articles/s41746-022-00566-0) ｜ 
 | A Review on Deep Learning in Minimally Invasive Surgery | **IEEE Access 2021** | [Paper](https://ieeexplore.ieee.org/abstract/document/9386091) |
 | Deep neural networks for the assessment of surgical skills: A systematic review | **IEEE Access 2021** | [Paper](https://arxiv.org/pdf/2103.05113) |
 | Current methods for assessing technical skill in cataract surgery | **JCRS 2021** | [Paper](https://journals.lww.com/jcrs/Abstract/2021/02000/Current_methods_for_assessing_technical_skill_in.18.aspx) |

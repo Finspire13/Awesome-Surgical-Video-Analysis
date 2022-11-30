@@ -42,6 +42,7 @@ _**Keep updating. Welcome to contribute.**_
 
 | Title | Venue | Links |
 | :--------------------: | :-------------: | :-----: |
+| Surgomics: personalized prediction of morbidity, mortality and long‐term outcome in surgery using machine learning on multimodal data | **Surgical Endoscopy 2020** | [Paper](https://link.springer.com/article/10.1007/s00464-022-09611-1) |
 | Surgical Data Science: from Concepts to Clinical Translation | **Arxiv 2020** | [Paper](https://arxiv.org/abs/2011.02284) |
 | Surgical Data Science: A Consensus Perspective | **Arxiv 2018** | [Paper](https://arxiv.org/abs/1806.03184) |
 | Surgical data science for next-generation interventions | **NBE 2017** | [Paper](https://www.nature.com/articles/s41551-017-0132-7) |

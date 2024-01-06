@@ -48,6 +48,7 @@ _**Keep updating. Welcome to contribute.**_
 | Surgical data science for next-generation interventions | **NBE 2017** | [Paper](https://www.nature.com/articles/s41551-017-0132-7) |
 | CAI4CAI: The Rise of Contextual Artificial Intelligence in Computer-Assisted Interventions | **IEEE 2019** | [Paper](https://ieeexplore.ieee.org/document/8880624) | 
 | OR Black Box and Surgical Control Tower: Recording and Streaming data and Analytics to Improve Surgical Care | **JVS 2021** | [Paper](https://www.sciencedirect.com/science/article/pii/S1878788621000163?via%3Dihub) |
+| General-purpose foundation models for increased autonomy in robot-assisted surgery | **arxiv 2024** | [Paper](https://arxiv.org/pdf/2401.00678.pdf) |
 
 <!-- | Supporting laparoscopic general surgery training with digital technology: The United Kingdom and Ireland paradigm | **BMC 2021** | [Paper](https://discovery.ucl.ac.uk/id/eprint/10124234/) | -->
 
